@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2022-03-12T04:16:00.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="K_0Ps0Uc4bwA_Hs_dMgN" version="17.1.2" type="github">
+  <diagram id="kyv-Pfv23gA9csW_IkZh" name="Page-1">
+    <mxGraphModel dx="2214" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="82b8sqedpG5tDT-W9cHj-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry y="80" width="820" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="82b8sqedpG5tDT-W9cHj-2" value="&lt;b&gt;&lt;br&gt;¿QUÉ ES UNA BD?&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Coleccion de datos relacionados que sirven un proposito&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="140" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="82b8sqedpG5tDT-W9cHj-5" value="Representa aspectos del mundo real" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="200" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82b8sqedpG5tDT-W9cHj-6" value="Colección coherente de datos con significado inherente. Una BD no puede ser un conjunto aleatorio de datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82b8sqedpG5tDT-W9cHj-7" value="Se diseña, construye y completa con datos para un proposito en específico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="414" y="280" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hzKp8I5DXXiYu1HuEsjh-1" value="Esta sustentada&amp;nbsp; fisicamente en archivos en dispositivos de almacenamiento persistente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="200" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5L1Ravf5SmVqJsjnQwp-1" target="y5L1Ravf5SmVqJsjnQwp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-1" value="&lt;b&gt;DBMS&lt;/b&gt;&lt;br&gt;&lt;br&gt;Es una colección de programas que permite a los usuarios crear y mantener la DB" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="340" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-2" value="OBJETIVOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="175" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-3" value="Evitar redundancia e inconsistencia de datos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="520" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-6" value="Permitir el acceso a los datos en todo momento. (no de 8hs a 20hs xdd)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="555" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-7" value="Evitar anomalías en acceso concurrente &lt;br&gt;(Rip SIU inscripciones)." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-8" value="Restricción de accesos no autorizados." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="640" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-9" value="Suministro de almacenamiento persistente de datos, incluso ante fallos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-10" value="Integridad de datos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="730" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-11" value="Backups" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-12" value="&lt;b&gt;&lt;br&gt;¿QUÉ ES UN DATO?&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Representa hechos conocidos que pueden registrarse y tienen un resultado implícito.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-19" value="COMPONENTES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="475" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5L1Ravf5SmVqJsjnQwp-1" target="y5L1Ravf5SmVqJsjnQwp-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="570" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-22" value="DDL: Para especificar el esquema de la DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-23" value="DML: Para Consulta y ABM de la DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="570" width="256" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-24" value="Procedimentales (SQL): Requiere que el usuario especifique que datos se muestran y como obtenerlos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="610" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-25" value="No precedimentales (QBE): Solo requiere esicificar los datos que se quieren" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="422" y="660" width="240" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
