@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T03:05:04.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FMqAjYUKBt0XK7iEq9yN" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T06:01:04.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_NrZxeQ8hEkcWUYVBGx9" version="17.1.2" type="github">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="Page-1">
     <mxGraphModel dx="2377" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="82b8sqedpG5tDT-W9cHj-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="75" width="820" height="820" as="geometry" />
+          <mxGeometry x="-110" y="80" width="920" height="920" as="geometry" />
         </mxCell>
-        <mxCell id="82b8sqedpG5tDT-W9cHj-2" value="&lt;h3&gt;&lt;b&gt;DB&lt;/b&gt;&lt;/h3&gt;Coleccion de &lt;b&gt;datos &lt;/b&gt;relacionados que sirven un propósito.&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="82b8sqedpG5tDT-W9cHj-2" value="&lt;h3&gt;&lt;b&gt;DB&lt;/b&gt;&lt;/h3&gt;Coleccion de &lt;b&gt;datos &lt;/b&gt;relacionados que sirven un propósito.&lt;br&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="110" width="159" height="100" as="geometry" />
         </mxCell>
         <mxCell id="82b8sqedpG5tDT-W9cHj-5" value="* Representa aspectos del mundo real." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -24,27 +24,6 @@
         </mxCell>
         <mxCell id="y5L1Ravf5SmVqJsjnQwp-2" value="OBJETIVOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="60" y="470" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-3" value="Evitar redundancia e inconsistencia de datos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="550" width="310" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-6" value="Permitir el acceso a los datos en todo momento. (no de 8hs a 20hs xdd)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="585" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-7" value="Evitar anomalías en acceso concurrente &lt;br&gt;(Rip SIU inscripciones)." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="630" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-8" value="Restricción de accesos no autorizados." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="670" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-9" value="Suministro de almacenamiento persistente de datos, incluso ante fallos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="720" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-10" value="Integridad de datos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="760" width="300" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-11" value="Backups" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5L1Ravf5SmVqJsjnQwp-19" value="COMPONENTES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="412" y="470" width="100" height="30" as="geometry" />
@@ -123,6 +102,30 @@
             <mxPoint x="390" y="600" as="sourcePoint" />
             <mxPoint x="440" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="igbWti4xABd6nXq-48ni-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="510" width="290" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-3" value="Evitar redundancia e inconsistencia de datos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="555" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-6" value="Permitir el acceso a los datos en todo momento. (no de 8hs a 20hs xdd)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="600" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-7" value="Evitar anomalías en acceso concurrente &lt;br&gt;(Rip SIU inscripciones)." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="650" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-8" value="Restricción de accesos no autorizados." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="700" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-9" value="Suministro de almacenamiento persistente de datos, incluso ante fallos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="750" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-10" value="Integridad de datos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="800" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-11" value="Backups" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="25" y="840" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
