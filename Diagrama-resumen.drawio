@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T03:34:51.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="wGX77W0q6pmx4vg0c1zY" version="17.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-22T02:40:32.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="GDxvAZHvBAiWkbwNLeLF" version="17.1.3" type="github" pages="4">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -340,14 +340,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_aeekphJmQ_JxzKB2d0n" name="Modelo ER - Conceptual">
-    <mxGraphModel dx="3107" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2900" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yR6vh7apyY_7gsYLu8oF-0" />
         <mxCell id="yR6vh7apyY_7gsYLu8oF-1" parent="yR6vh7apyY_7gsYLu8oF-0" />
-        <mxCell id="SoOxSxhJbX_ROLQLt3yH-2" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;Abstraer la información de un problema.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;Captar las necesidad del cliente respecto al problema.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;Mejora la interacción cliente / desarrollador disminuyendo la brecha entre la realidad del problema y el sistema a desarrollar.&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yR6vh7apyY_7gsYLu8oF-1">
+        <mxCell id="SoOxSxhJbX_ROLQLt3yH-2" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;Abstraer la información de un problema.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;Captar las necesidad del cliente respecto al problema.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;Mejora la interacción cliente / desarrollador disminuyendo la brecha entre la realidad del problema y el sistema a desarrollar.&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="460" y="170" width="340" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="ZbFmldifANwtl0lqOs82-0" value="&lt;b style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;Expresividad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;disponer de todos los medios necesarios para describir un problema.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Formalidad:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;cada elemento representado sea preciso y bien definido, con una sola. interpretación posible.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Minimalidad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;cada elemento tiene una única representación posible.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Simplicidad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;el modelo debe ser fácil de entender por el cliente y por el desarrollador.&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yR6vh7apyY_7gsYLu8oF-1">
+        <mxCell id="ZbFmldifANwtl0lqOs82-0" value="&lt;b style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;Expresividad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;disponer de todos los medios necesarios para describir un problema.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Formalidad:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;cada elemento representado sea preciso y bien definido, con una sola. interpretación posible.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Minimalidad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;cada elemento tiene una única representación posible.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Simplicidad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;el modelo debe ser fácil de entender por el cliente y por el desarrollador.&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="-16" y="150" width="325" height="240" as="geometry" />
         </mxCell>
         <mxCell id="yR6vh7apyY_7gsYLu8oF-62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-56" target="yR6vh7apyY_7gsYLu8oF-55" edge="1">
@@ -356,13 +356,13 @@
             <mxPoint x="136.75" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoOxSxhJbX_ROLQLt3yH-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#3333FF;" edge="1" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-2" target="1_iYeQalzvefCCL4fvrW-0">
+        <mxCell id="SoOxSxhJbX_ROLQLt3yH-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#3333FF;" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-2" target="1_iYeQalzvefCCL4fvrW-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SoOxSxhJbX_ROLQLt3yH-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#3333FF;" edge="1" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-2" target="SoOxSxhJbX_ROLQLt3yH-2">
+        <mxCell id="SoOxSxhJbX_ROLQLt3yH-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#3333FF;" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-2" target="SoOxSxhJbX_ROLQLt3yH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SoOxSxhJbX_ROLQLt3yH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#3333FF;" edge="1" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-2" target="ZbFmldifANwtl0lqOs82-0">
+        <mxCell id="SoOxSxhJbX_ROLQLt3yH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#3333FF;" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-2" target="ZbFmldifANwtl0lqOs82-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yR6vh7apyY_7gsYLu8oF-2" value="&lt;h3&gt;&amp;nbsp;MODELO CONCEPTUAL ER&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
@@ -512,10 +512,10 @@
             <mxPoint x="380" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-52" target="gj7wNLteCC-HCq0XYJLv-0">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-52" target="gj7wNLteCC-HCq0XYJLv-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-52" target="gj7wNLteCC-HCq0XYJLv-1">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-52" target="gj7wNLteCC-HCq0XYJLv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yR6vh7apyY_7gsYLu8oF-52" value="Es un atributo o conjunto de atributos que permite reconocer una entidad dentro del conjunto de entidades.&amp;nbsp;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
@@ -524,7 +524,7 @@
         <mxCell id="yR6vh7apyY_7gsYLu8oF-53" value="Permite extraer propiedades comúnes de varias entidades (o relaciones) y generar una superentidad que las contenga.&lt;br&gt;&lt;br&gt;Cobertura total o parcial y superpuesta o exclusiva." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="580" y="945" width="180" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-54" target="gj7wNLteCC-HCq0XYJLv-6">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-54" target="gj7wNLteCC-HCq0XYJLv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yR6vh7apyY_7gsYLu8oF-54" value="Una jerarquía que presenta un solo conjunto de entidades como hijo.&amp;nbsp;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
@@ -547,29 +547,55 @@
         <mxCell id="1_iYeQalzvefCCL4fvrW-0" value="EL modelo ER no llega a tener implementacion fisica" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="562" y="75" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-0" value="Simples o&amp;nbsp;&lt;br&gt;Compuestos" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yR6vh7apyY_7gsYLu8oF-1">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-0" value="Simples o&amp;nbsp;&lt;br&gt;Compuestos" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="320" y="870" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-1" value="Internos o&amp;nbsp;&lt;br&gt;Externos" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yR6vh7apyY_7gsYLu8oF-1">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-1" value="Internos o&amp;nbsp;&lt;br&gt;Externos" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="440" y="875" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-6" value="Cobertura obligatoriamente parcial exclusiva" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yR6vh7apyY_7gsYLu8oF-1">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-6" value="Cobertura obligatoriamente parcial exclusiva" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="1030" y="957.5" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-10" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Autoexplicativo:&lt;/b&gt;&amp;nbsp;el modelo se expresa a sí mismo si puede presentarse con los elementos definidos, sin necesidad de utilizar aclaraciones.&lt;br&gt;&lt;br&gt;&lt;b&gt;Completitud&lt;/b&gt;: Un modelo está completo cuando estas todas las caracteristicas del problema contempladas en el (requerimientos).&lt;br&gt;&lt;br&gt;&lt;b&gt;Correción:&lt;/b&gt;&amp;nbsp;Un modelo es correcto si cada elemento en su construcción fue utilizado con propiedad (Ver que todas las cardinalidades, coberturas, identificadores estén expresados).&lt;br&gt;&lt;br&gt;&lt;b&gt;Expresividad:&lt;/b&gt;&amp;nbsp;Un modelo es expresivo si a partir de su obversación puede notarse todos los detalles del modelo (Por ej: usando jerarquías que sean coherentes).&lt;br&gt;&lt;br&gt;&lt;b&gt;Extensible: &lt;/b&gt;es extensible si es fácilmente modificable para incoporar nuevos conceptos en él.&lt;br&gt;&lt;br&gt;&lt;b&gt;Legibilidad:&lt;/b&gt;&amp;nbsp;Es legible si la representación es adecuada.&lt;br&gt;&lt;br&gt;&lt;b&gt;Mínimo&lt;/b&gt;: un esquema es mínimo cuando cada concepto se representa una sola vez en el modelo (&lt;font color=&quot;#3333ff&quot;&gt;Atributos derivados&lt;/font&gt; y &lt;font color=&quot;#3333ff&quot;&gt;ciclos de relaciones&lt;/font&gt;)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yR6vh7apyY_7gsYLu8oF-1">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-10" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Autoexplicativo:&lt;/b&gt;&amp;nbsp;el modelo se expresa a sí mismo si puede presentarse con los elementos definidos, sin necesidad de utilizar aclaraciones.&lt;br&gt;&lt;br&gt;&lt;b&gt;Completitud&lt;/b&gt;: Un modelo está completo cuando estas todas las caracteristicas del problema contempladas en el (requerimientos).&lt;br&gt;&lt;br&gt;&lt;b&gt;Correción:&lt;/b&gt;&amp;nbsp;Un modelo es correcto si cada elemento en su construcción fue utilizado con propiedad (Ver que todas las cardinalidades, coberturas, identificadores estén expresados).&lt;br&gt;&lt;br&gt;&lt;b&gt;Expresividad:&lt;/b&gt;&amp;nbsp;Un modelo es expresivo si a partir de su obversación puede notarse todos los detalles del modelo (Por ej: usando jerarquías que sean coherentes).&lt;br&gt;&lt;br&gt;&lt;b&gt;Extensible: &lt;/b&gt;es extensible si es fácilmente modificable para incoporar nuevos conceptos en él.&lt;br&gt;&lt;br&gt;&lt;b&gt;Legibilidad:&lt;/b&gt;&amp;nbsp;Es legible si la representación es adecuada.&lt;br&gt;&lt;br&gt;&lt;b&gt;Mínimo&lt;/b&gt;: un esquema es mínimo cuando cada concepto se representa una sola vez en el modelo (&lt;font color=&quot;#3333ff&quot;&gt;Atributos derivados&lt;/font&gt; y &lt;font color=&quot;#3333ff&quot;&gt;ciclos de relaciones&lt;/font&gt;)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="970" y="80" width="350" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-8" value="MEJORAR MODELO CONCEPTUAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yR6vh7apyY_7gsYLu8oF-1">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-8" value="MEJORAR MODELO CONCEPTUAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="1075" y="90" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qapTlA4FvjPZXz4BUkvx" name="Page-4">
+  <diagram id="qapTlA4FvjPZXz4BUkvx" name="Modelo lógico">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3ZMjvVlKsP4-TXyuE5Z5-0" />
         <mxCell id="3ZMjvVlKsP4-TXyuE5Z5-1" parent="3ZMjvVlKsP4-TXyuE5Z5-0" />
+        <mxCell id="H7LvdwyLH_QTL9qMdOXB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="r2bIBUAW8WoRqN4rFueX-0" target="H7LvdwyLH_QTL9qMdOXB-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2bIBUAW8WoRqN4rFueX-0" value="&lt;h3&gt;&amp;nbsp;MODELO LÓGICO&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
+          <mxGeometry x="330" y="60" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7LvdwyLH_QTL9qMdOXB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="H7LvdwyLH_QTL9qMdOXB-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7LvdwyLH_QTL9qMdOXB-0" value="Para llegar a un modelo más cercano a la representación del SGBD." style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
+          <mxGeometry x="610" y="65" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H7LvdwyLH_QTL9qMdOXB-3" value="Se debe definir el&amp;nbsp; tipo de SGBD, ya que la secuencia de pasos de conversión disponibles tiene estrecha relación con el tipo de SGBD." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
+          <mxGeometry x="570" y="170" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H7LvdwyLH_QTL9qMdOXB-5" value="Esquema conceptual&lt;br&gt;&lt;br&gt;Reglas de conversión (ligadas a tipo SGBD)&lt;br&gt;&lt;br&gt;Criterios de rendimiento.&lt;br&gt;&lt;br&gt;Información de carga BD&lt;br&gt;(Considerar la evolución que puede tener la BD, además que un archivo de datos muy grande se vuelve mucho más lento en búsqueda y ABM)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
+          <mxGeometry x="20" y="40" width="160" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="H7LvdwyLH_QTL9qMdOXB-6" value="Deben tenerse&lt;br&gt;en cuenta al realizar" style="endArrow=classic;html=1;rounded=0;exitX=0.994;exitY=0.181;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="H7LvdwyLH_QTL9qMdOXB-5" target="r2bIBUAW8WoRqN4rFueX-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="180" as="sourcePoint" />
+            <mxPoint x="490" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
