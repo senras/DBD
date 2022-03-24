@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T22:07:45.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="KYHezdTPpYt4EnnyY0nm" version="17.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-24T16:23:56.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="_CqfCcdp2T3eNDiBCBq6" version="17.2.1" type="github" pages="4">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -566,7 +566,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qapTlA4FvjPZXz4BUkvx" name="Modelo lógico">
-    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2073" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3ZMjvVlKsP4-TXyuE5Z5-0" />
         <mxCell id="3ZMjvVlKsP4-TXyuE5Z5-1" parent="3ZMjvVlKsP4-TXyuE5Z5-0" />
@@ -596,29 +596,29 @@
             <mxPoint x="490" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_-OPTebSoDpuE9zwplWB-0" value="Atributos derivados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
-          <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="_-OPTebSoDpuE9zwplWB-0" value="Atributos derivados" style="rounded=0;whiteSpace=wrap;html=1;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-OPTebSoDpuE9zwplWB-1" value="Ciclos de relaciones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
-          <mxGeometry x="350" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="_-OPTebSoDpuE9zwplWB-1" value="Ciclos de relaciones" style="rounded=0;whiteSpace=wrap;html=1;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-OPTebSoDpuE9zwplWB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="_-OPTebSoDpuE9zwplWB-2" target="_-OPTebSoDpuE9zwplWB-6">
+        <mxCell id="_-OPTebSoDpuE9zwplWB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="_-OPTebSoDpuE9zwplWB-2" target="_-OPTebSoDpuE9zwplWB-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_-OPTebSoDpuE9zwplWB-2" value="Atributos polivalentes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
-          <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="_-OPTebSoDpuE9zwplWB-2" value="Atributos polivalentes" style="rounded=0;whiteSpace=wrap;html=1;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+          <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-OPTebSoDpuE9zwplWB-3" value="Atributos compuestos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
-          <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="_-OPTebSoDpuE9zwplWB-3" value="Atributos compuestos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+          <mxGeometry x="375" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-OPTebSoDpuE9zwplWB-4" value="Jerarquías y subconjuntos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
-          <mxGeometry x="625" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="_-OPTebSoDpuE9zwplWB-4" value="Jerarquías y subconjuntos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+          <mxGeometry x="640" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-OPTebSoDpuE9zwplWB-6" value="1FN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
-          <mxGeometry x="470" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="_-OPTebSoDpuE9zwplWB-6" value="1FN" style="rounded=0;whiteSpace=wrap;html=1;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+          <mxGeometry x="200" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-OPTebSoDpuE9zwplWB-8" value="3 opciones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
-          <mxGeometry x="660" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="_-OPTebSoDpuE9zwplWB-8" value="3 opciones" style="rounded=0;whiteSpace=wrap;html=1;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+          <mxGeometry x="640" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
