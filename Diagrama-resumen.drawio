@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T03:12:13.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="NJES4P2G-wlyvaqXsD1O" version="17.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-25T03:12:40.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ie790I2ESY_dr9TwE_Um" version="17.2.2" type="github" pages="5">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -650,6 +650,14 @@
         <mxCell id="_-OPTebSoDpuE9zwplWB-4" value="Jerarquías y subconjuntos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
           <mxGeometry x="710" y="450" width="100" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jSs8BRx_d-3OebWh5dnl" name="Modelo Físico">
+    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
