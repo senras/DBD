@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T02:11:05.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="BZMuIIOOF6Id-f1LIevu" version="17.2.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-28T02:21:20.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="_dLydIj5n8-rwCwQMhs2" version="17.2.4" type="github" pages="5">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS">
     <mxGraphModel dx="1425" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -649,7 +649,16 @@
         <mxCell id="ElcPMYtuCitNytgYrpSk-1" value="&lt;b&gt;MODELO FÍSICO RELACIONAL&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="380" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-1" value="INTEGRIDAD REFERENCIAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LAFkxnOpKaz8uj2J0HjF-1" target="LAFkxnOpKaz8uj2J0HjF-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LAFkxnOpKaz8uj2J0HjF-1" target="LAFkxnOpKaz8uj2J0HjF-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LAFkxnOpKaz8uj2J0HjF-1" target="LAFkxnOpKaz8uj2J0HjF-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-1" value="&lt;b&gt;INTEGRIDAD REFERENCIAL&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="640" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LAFkxnOpKaz8uj2J0HjF-2" target="LAFkxnOpKaz8uj2J0HjF-8">
@@ -702,6 +711,18 @@
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-17" value="&lt;b&gt;CONVERSIÓN DE ENTIDADES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-25" value="Propiedad &lt;b&gt;deseable&lt;/b&gt;&amp;nbsp;en BD relacionales. Asegura que un valor que aparece para un atributo en una tabla, aparezca en otra para el mismo atributo." style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="35" width="240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-26" value="&lt;br&gt;&lt;br&gt;&lt;b&gt;Restringir operación: &lt;/b&gt;si se intenta borrar/modificar una tupla que tiene IR con otra, no se permite llevar a cabo. Ej:&lt;br&gt;Teniendo las tablas CLIENTES y FACTURAS, para borrar un cliente es necesario que no tenga facturas, sino no se permite borrar al cliente.&lt;br&gt;&lt;br&gt;&lt;b&gt;Realizar operación en Cascada: &lt;/b&gt;Si se intenta borrar/modificar una tupla donde esta definida la CP de la IR, la operación se realiza en cadena sobre todas las tuplas de la tabla que tiene definida la CF.&lt;br&gt;&lt;br&gt;&lt;b&gt;Establecer CF en nulo:&lt;/b&gt;&amp;nbsp;si se borra/modifica el valor del atributo que es CP, sobra la CF se establece en nulo.&lt;br&gt;&lt;br&gt;&lt;b&gt;No hacer nada: &lt;/b&gt;No se controla la IR. Equivale a no tener restricciones de IR." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="790" y="185" width="250" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-27" value="&lt;b&gt;ESCENARIOS I.R.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="855" y="192.5" width="120" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-29" value="Plantea restricciones entre tablas y sirve para mantener la&amp;nbsp;&lt;b&gt;consistencia&amp;nbsp;&lt;/b&gt;entre las tuplas de dichas tablas." style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="112.5" width="230" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
