@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T18:06:44.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="VDT7fUBaMLYNShaCz2bx" version="17.2.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-29T20:32:16.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="J0Tv-YVYn9Bb9F-96GCG" version="17.2.4" type="github" pages="6">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -732,20 +732,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-1" value="&lt;b&gt;NORMALIZACIÓN&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="EpmCPFe7aQTYI6V2jg4i-1" value="&lt;b&gt;NORMALIZACIÓN&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-2" value="Mecanismo que consiste en aplicar una serie de reglas a un conjunto de tablas, para que cumpla con una serie de propiedades deseables:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EpmCPFe7aQTYI6V2jg4i-2" value="Mecanismo que consiste en aplicar una serie de reglas a un conjunto de tablas, para que cumpla con una serie de propiedades deseables:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="10" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-3" value="Sirve para evitar redundancia de datos y ademas ayuda a proteger la integridad de la información de la DB." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EpmCPFe7aQTYI6V2jg4i-3" value="Sirve para evitar redundancia de datos y ademas ayuda a proteger la integridad de la información de la DB." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="90" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-4" value="DEPENDENCIA FUNCIONAL&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EpmCPFe7aQTYI6V2jg4i-4" value="DEPENDENCIA FUNCIONAL&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-5" value="Una DF representa una restricción entre atributos de una tabla. Se dice que un &amp;lt;atributo Y depende funcionalmente de un atributo X (denotado X-&amp;gt;Y), cuando para un valor dado de X siempre se encuentra el mismo valor para Y. También X e Y pueden representar un conjunto de atributos&lt;br&gt;&lt;br&gt;Más formalmente, dadas dos tuplas cualquiera de una tabla t1 y 2, si t1[X]=t2[X], entonces t1[Y]=t2[Y]&lt;br&gt;&lt;br&gt;Generalizando, el atributo X determina al atributo Y." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="230" width="206" height="260" as="geometry" />
+        <mxCell id="EpmCPFe7aQTYI6V2jg4i-5" value="Una DF representa una restricción entre atributos de una tabla. Se dice que un atributo Y depende funcionalmente de un atributo X (denotado X=&amp;gt;Y), cuando para un valor dado de X siempre se encuentra el mismo valor para Y. También X e Y pueden representar un conjunto de atributos.&lt;br&gt;&lt;br&gt;Generalizando, el atributo X determina al atributo Y." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="311" y="230" width="206" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
