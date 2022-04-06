@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T20:32:16.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="J0Tv-YVYn9Bb9F-96GCG" version="17.2.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-06T02:03:37.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="9IBLzy0D6K2wzA1BYnnb" version="17.4.0" type="github" pages="6">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS">
-    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,7 +630,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jSs8BRx_d-3OebWh5dnl" name="Modelo Físico">
-    <mxGraphModel dx="1967" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,24 +728,101 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZQCYuy2zkkT1Xxjkr_MO" name="Normalización">
-    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-1" target="EpmCPFe7aQTYI6V2jg4i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-1" target="EpmCPFe7aQTYI6V2jg4i-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EpmCPFe7aQTYI6V2jg4i-1" value="&lt;b&gt;NORMALIZACIÓN&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-2" value="Mecanismo que consiste en aplicar una serie de reglas a un conjunto de tablas, para que cumpla con una serie de propiedades deseables:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="10" width="260" height="60" as="geometry" />
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-3" value="Sirve para evitar redundancia de datos y ademas ayuda a proteger la integridad de la información de la DB." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="90" width="260" height="40" as="geometry" />
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-4" value="DEPENDENCIA FUNCIONAL&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="160" width="120" height="50" as="geometry" />
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-5" value="Una DF representa una restricción entre atributos de una tabla. Se dice que un atributo Y depende funcionalmente de un atributo X (denotado X=&amp;gt;Y), cuando para un valor dado de X siempre se encuentra el mismo valor para Y. También X e Y pueden representar un conjunto de atributos.&lt;br&gt;&lt;br&gt;Generalizando, el atributo X determina al atributo Y." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="311" y="230" width="206" height="200" as="geometry" />
+        <mxCell id="EpmCPFe7aQTYI6V2jg4i-2" value="Mecanismo que consiste en aplicar una serie de reglas a un conjunto de tablas, para evitar" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="537" y="10" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NCkATOIP2m3-h5seGxO0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-4" target="NCkATOIP2m3-h5seGxO0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpmCPFe7aQTYI6V2jg4i-4" value="DEPENDENCIA FUNCIONAL&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="354" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EpmCPFe7aQTYI6V2jg4i-5" value="Una DF representa una &lt;b&gt;restricción entre atributos de una tabla&lt;/b&gt;. Se dice que un atributo Y depende funcionalmente de un atributo X (denotado X=&amp;gt;Y), cuando para un valor dado de X siempre se encuentra el mismo valor para Y. También X e Y pueden representar un conjunto de atributos.&lt;br&gt;&lt;br&gt;&lt;b&gt;Generalizando, el atributo X determina al atributo Y.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="170" width="206" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-6" value="&lt;b&gt;DF PARCIALES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-7" value="&lt;b&gt;DF TRANSITIVAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-8" value="DF de BOYCE-CODD" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-9" value="&lt;b&gt;DEPENDENCIAS MULTIVALUADAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-10" value="Perdida de integridad de datos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="730" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-11" value="Anomalías de actualización" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="618.5" y="110" width="97" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-12" value="Redundancia de datos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NCkATOIP2m3-h5seGxO0-1" value="&lt;b&gt;TIPOS DE DF&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NCkATOIP2m3-h5seGxO0-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="340" as="sourcePoint" />
+            <mxPoint x="110" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NCkATOIP2m3-h5seGxO0-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.338;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="340" as="sourcePoint" />
+            <mxPoint x="110" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NCkATOIP2m3-h5seGxO0-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.718;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="340" as="sourcePoint" />
+            <mxPoint x="110" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NCkATOIP2m3-h5seGxO0-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="340" as="sourcePoint" />
+            <mxPoint x="110" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NCkATOIP2m3-h5seGxO0-7" value="En un DF X=&amp;gt;Y, al atribuyo X se lo denomina determinante y al atribuyo Y, consecuente." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="250" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NCkATOIP2m3-h5seGxO0-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-4" target="NCkATOIP2m3-h5seGxO0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="190" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
