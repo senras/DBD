@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T02:03:37.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="9IBLzy0D6K2wzA1BYnnb" version="17.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-09T15:08:35.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="NrEA2pTesF5158kz2OjN" version="17.2.5" type="github" pages="6">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1341" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -536,7 +536,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qapTlA4FvjPZXz4BUkvx" name="Modelo lógico">
-    <mxGraphModel dx="1967" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3677" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3ZMjvVlKsP4-TXyuE5Z5-0" />
         <mxCell id="3ZMjvVlKsP4-TXyuE5Z5-1" parent="3ZMjvVlKsP4-TXyuE5Z5-0" />
@@ -563,7 +563,7 @@
         <mxCell id="H7LvdwyLH_QTL9qMdOXB-3" value="Se debe definir el&amp;nbsp; tipo de SGBD, ya que la secuencia de pasos de conversión disponibles tiene estrecha relación con el tipo de SGBD." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
           <mxGeometry x="570" y="170" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="38hNXQZ2Xx3V6MPt7dud-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=none;" edge="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="38hNXQZ2Xx3V6MPt7dud-0" target="r2bIBUAW8WoRqN4rFueX-0">
+        <mxCell id="38hNXQZ2Xx3V6MPt7dud-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=none;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="38hNXQZ2Xx3V6MPt7dud-0" target="r2bIBUAW8WoRqN4rFueX-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H7LvdwyLH_QTL9qMdOXB-5" value="Esquema conceptual previo.&lt;br&gt;&lt;br&gt;Reglas de conversión (ligadas a tipo SGBD).&lt;br&gt;&lt;br&gt;Criterios de rendimiento.&lt;br&gt;&lt;br&gt;Información de carga BD&lt;br&gt;(posible evolución de la BD,&amp;nbsp; archivos de datos muy grandes lentos para búsqueda y ABM)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
@@ -617,10 +617,10 @@
         <mxCell id="_-OPTebSoDpuE9zwplWB-4" value="Jerarquías y subconjuntos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
           <mxGeometry x="710" y="450" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="38hNXQZ2Xx3V6MPt7dud-0" value="Al realizar, deben tenerse en cuenta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1">
+        <mxCell id="38hNXQZ2Xx3V6MPt7dud-0" value="Al realizar, deben tenerse en cuenta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
           <mxGeometry x="210" y="85" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="38hNXQZ2Xx3V6MPt7dud-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="H7LvdwyLH_QTL9qMdOXB-5" target="38hNXQZ2Xx3V6MPt7dud-0">
+        <mxCell id="38hNXQZ2Xx3V6MPt7dud-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="H7LvdwyLH_QTL9qMdOXB-5" target="38hNXQZ2Xx3V6MPt7dud-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="105" as="sourcePoint" />
             <mxPoint x="330" y="96.1764705882353" as="targetPoint" />
@@ -630,7 +630,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jSs8BRx_d-3OebWh5dnl" name="Modelo Físico">
-    <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3107" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,97 +728,97 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZQCYuy2zkkT1Xxjkr_MO" name="Normalización">
-    <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2727" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-1" target="EpmCPFe7aQTYI6V2jg4i-2">
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="EpmCPFe7aQTYI6V2jg4i-1" target="EpmCPFe7aQTYI6V2jg4i-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-1" target="EpmCPFe7aQTYI6V2jg4i-4">
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="EpmCPFe7aQTYI6V2jg4i-1" target="EpmCPFe7aQTYI6V2jg4i-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EpmCPFe7aQTYI6V2jg4i-1" value="&lt;b&gt;NORMALIZACIÓN&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-12">
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-11">
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-10">
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EpmCPFe7aQTYI6V2jg4i-2" value="Mecanismo que consiste en aplicar una serie de reglas a un conjunto de tablas, para evitar" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="537" y="10" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-4">
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="EpmCPFe7aQTYI6V2jg4i-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NCkATOIP2m3-h5seGxO0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-4" target="NCkATOIP2m3-h5seGxO0-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EpmCPFe7aQTYI6V2jg4i-4" value="DEPENDENCIA FUNCIONAL&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="354" y="170" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-5" value="Una DF representa una &lt;b&gt;restricción entre atributos de una tabla&lt;/b&gt;. Se dice que un atributo Y depende funcionalmente de un atributo X (denotado X=&amp;gt;Y), cuando para un valor dado de X siempre se encuentra el mismo valor para Y. También X e Y pueden representar un conjunto de atributos.&lt;br&gt;&lt;br&gt;&lt;b&gt;Generalizando, el atributo X determina al atributo Y.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="170" width="206" height="200" as="geometry" />
+        <mxCell id="bKTwd09ESh_ZjQusfTI7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-5" target="NCkATOIP2m3-h5seGxO0-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-6" value="&lt;b&gt;DF PARCIALES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="EpmCPFe7aQTYI6V2jg4i-5" value="Una DF representa una &lt;b&gt;restricción entre atributos de una tabla&lt;/b&gt;. Se dice que un atributo Y depende funcionalmente de un atributo X (denotado X=&amp;gt;Y), cuando para un valor dado de X siempre se encuentra el mismo valor para Y. También X e Y pueden representar un conjunto de atributos.&lt;br&gt;&lt;br&gt;&lt;b&gt;Generalizando, el atributo X determina al atributo Y.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="560" y="170" width="220" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-7" value="&lt;b&gt;DF TRANSITIVAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-6" value="&lt;b&gt;DF PARCIALES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-8" value="DF de BOYCE-CODD" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-7" value="&lt;b&gt;DF TRANSITIVAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-9" value="&lt;b&gt;DEPENDENCIAS MULTIVALUADAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-8" value="DF de BOYCE-CODD" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-10" value="Perdida de integridad de datos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-9" value="&lt;b&gt;DEPENDENCIAS MULTIVALUADAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-10" value="Perdida de integridad de datos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="730" y="100" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-11" value="Anomalías de actualización" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-11" value="Anomalías de actualización" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="618.5" y="110" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-12" value="Redundancia de datos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="CMCfPWTpFXuqtIZ7hjPs-12" value="Redundancia de datos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="480" y="100" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NCkATOIP2m3-h5seGxO0-1" value="&lt;b&gt;TIPOS DE DF&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="220" width="120" height="70" as="geometry" />
+        <mxCell id="NCkATOIP2m3-h5seGxO0-1" value="&lt;b&gt;TIPOS DE DF&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="150" y="230" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NCkATOIP2m3-h5seGxO0-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-6">
+        <mxCell id="NCkATOIP2m3-h5seGxO0-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="340" as="sourcePoint" />
-            <mxPoint x="110" y="290" as="targetPoint" />
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="280" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NCkATOIP2m3-h5seGxO0-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.338;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-7">
+        <mxCell id="NCkATOIP2m3-h5seGxO0-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.338;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="340" as="sourcePoint" />
-            <mxPoint x="110" y="290" as="targetPoint" />
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="280" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NCkATOIP2m3-h5seGxO0-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.718;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-8">
+        <mxCell id="NCkATOIP2m3-h5seGxO0-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.718;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="340" as="sourcePoint" />
-            <mxPoint x="110" y="290" as="targetPoint" />
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="280" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NCkATOIP2m3-h5seGxO0-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-9">
+        <mxCell id="NCkATOIP2m3-h5seGxO0-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="340" as="sourcePoint" />
-            <mxPoint x="110" y="290" as="targetPoint" />
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="280" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NCkATOIP2m3-h5seGxO0-7" value="En un DF X=&amp;gt;Y, al atribuyo X se lo denomina determinante y al atribuyo Y, consecuente." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="250" width="170" height="70" as="geometry" />
+        <mxCell id="NCkATOIP2m3-h5seGxO0-7" value="En un DF X=&amp;gt;Y, al atribuyo X se lo denomina determinante y al atribuyo Y, consecuente." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="585" y="400" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NCkATOIP2m3-h5seGxO0-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="EpmCPFe7aQTYI6V2jg4i-4" target="NCkATOIP2m3-h5seGxO0-1">
+        <mxCell id="NCkATOIP2m3-h5seGxO0-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;" parent="1" source="EpmCPFe7aQTYI6V2jg4i-4" target="NCkATOIP2m3-h5seGxO0-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="240" as="sourcePoint" />
             <mxPoint x="190" y="190" as="targetPoint" />
