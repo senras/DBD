@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T21:17:59.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0cEAU5waGk8EBeGiW5am" version="20.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-27T21:18:13.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="R3cWrAw6Dn0LBSBcBYOK" version="20.2.1" type="github" pages="8">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS">
     <mxGraphModel dx="1900" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="FIEg2f-IqWj-XwJC0ZLa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="wAuXZagQ3o1Ts092lAWZ-1" vertex="1">
           <mxGeometry x="50" y="454.37" width="290" height="196.87" as="geometry" />
+        </mxCell>
+        <mxCell id="c6s0-3iqurbPVi4f-7Cy-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="wAuXZagQ3o1Ts092lAWZ-1" source="FIEg2f-IqWj-XwJC0ZLa-2" target="NNj5zsU1d70LZ2bwkTFF-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FIEg2f-IqWj-XwJC0ZLa-2" value="&lt;h3&gt;MODELADO DE DATOS&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="wAuXZagQ3o1Ts092lAWZ-1" vertex="1">
           <mxGeometry x="550" y="50" width="120" height="60" as="geometry" />
