@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T21:15:44.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mAtN706-XOHilWQSD2Np" version="20.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-27T21:17:59.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0cEAU5waGk8EBeGiW5am" version="20.2.1" type="github" pages="8">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS">
     <mxGraphModel dx="1900" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -267,12 +267,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_aeekphJmQ_JxzKB2d0n" name="Modelo ER - Conceptual">
-    <mxGraphModel dx="1629" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2850" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="yR6vh7apyY_7gsYLu8oF-0" />
         <mxCell id="yR6vh7apyY_7gsYLu8oF-1" parent="yR6vh7apyY_7gsYLu8oF-0" />
         <mxCell id="SoOxSxhJbX_ROLQLt3yH-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Abstraer la información de un problema.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Captar las necesidad del cliente respecto al problema.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mejora la interacción cliente / desarrollador disminuyendo la brecha entre la realidad del problema y el sistema a desarrollar.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=7;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
-          <mxGeometry x="620" y="30.000000000000007" width="350" height="96.88" as="geometry" />
+          <mxGeometry x="654.75" y="40.00000000000001" width="350" height="96.88" as="geometry" />
         </mxCell>
         <mxCell id="ZbFmldifANwtl0lqOs82-0" value="&lt;b style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;Expresividad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;disponer de todos los medios necesarios para describir un problema.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Formalidad:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;cada elemento representado sea preciso y bien definido, con una sola. interpretación posible.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Minimalidad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;cada elemento tiene una única representación posible.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Simplicidad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;el modelo debe ser fácil de entender por el cliente y por el desarrollador.&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="42.75" y="80" width="325" height="240" as="geometry" />
@@ -284,7 +284,7 @@
           <mxGeometry x="389" y="20" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yR6vh7apyY_7gsYLu8oF-3" value="OBJETIVOS" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
-          <mxGeometry x="620" y="10" width="350" height="20" as="geometry" />
+          <mxGeometry x="654.75" y="20" width="350" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yR6vh7apyY_7gsYLu8oF-7" value="CARACTERÍSTICAS" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="137.75" y="90" width="140" height="30" as="geometry" />
@@ -455,7 +455,7 @@
           <mxGeometry x="89" width="191" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVYn1wIajbFpz_sPNIYx-56" value="" style="group" vertex="1" connectable="0" parent="yR6vh7apyY_7gsYLu8oF-1">
-          <mxGeometry x="600" y="260" width="160" height="80" as="geometry" />
+          <mxGeometry x="580" y="240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yR6vh7apyY_7gsYLu8oF-46" value="RELACIONES (&lt;span style=&quot;font-weight: normal;&quot;&gt;Agregación&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;fontStyle=1" parent="zVYn1wIajbFpz_sPNIYx-56" vertex="1">
           <mxGeometry width="160" height="40" as="geometry" />
@@ -475,14 +475,20 @@
         <mxCell id="zVYn1wIajbFpz_sPNIYx-4" value="Una jerarquía que presenta un solo conjunto de entidades como hijo.&amp;nbsp;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zVYn1wIajbFpz_sPNIYx-62">
           <mxGeometry x="0.25" y="40" width="199.75" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zVYn1wIajbFpz_sPNIYx-64" value="" style="group" vertex="1" connectable="0" parent="yR6vh7apyY_7gsYLu8oF-1">
-          <mxGeometry x="1230" y="140" width="350" height="380" as="geometry" />
+        <mxCell id="zVYn1wIajbFpz_sPNIYx-64" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="yR6vh7apyY_7gsYLu8oF-1">
+          <mxGeometry x="790" y="160" width="350" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-10" value="&lt;b&gt;Autoexplicativo:&lt;/b&gt;&amp;nbsp;el modelo se expresa a sí mismo si puede presentarse con los elementos definidos, sin necesidad de utilizar aclaraciones.&lt;br&gt;&lt;br&gt;&lt;b&gt;Completitud&lt;/b&gt;: Un modelo está completo cuando estas todas las caracteristicas del problema contempladas en el (requerimientos).&lt;br&gt;&lt;br&gt;&lt;b&gt;Correción:&lt;/b&gt;&amp;nbsp;Un modelo es correcto si cada elemento en su construcción fue utilizado con propiedad (Ver que todas las cardinalidades, coberturas, identificadores estén expresados).&lt;br&gt;&lt;br&gt;&lt;b&gt;Expresividad:&lt;/b&gt;&amp;nbsp;Un modelo es expresivo si a partir de su obversación puede notarse todos los detalles del modelo (Por ej: usando jerarquías que sean coherentes).&lt;br&gt;&lt;br&gt;&lt;b&gt;Extensible: &lt;/b&gt;es extensible si es fácilmente modificable para incoporar nuevos conceptos en él.&lt;br&gt;&lt;br&gt;&lt;b&gt;Legibilidad:&lt;/b&gt;&amp;nbsp;Es legible si la representación es adecuada.&lt;br&gt;&lt;br&gt;&lt;b&gt;Mínimo&lt;/b&gt;: un esquema es mínimo cuando cada concepto se representa una sola vez en el modelo (&lt;font color=&quot;#3333ff&quot;&gt;Atributos derivados&lt;/font&gt; y &lt;font color=&quot;#3333ff&quot;&gt;ciclos de relaciones&lt;/font&gt;)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zVYn1wIajbFpz_sPNIYx-64" vertex="1">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-10" value="&lt;b&gt;Autoexplicativo:&lt;/b&gt;&amp;nbsp;el modelo se expresa a sí mismo si puede presentarse con los elementos definidos, sin necesidad de utilizar aclaraciones.&lt;br&gt;&lt;br&gt;&lt;b&gt;Completitud&lt;/b&gt;: Un modelo está completo cuando estas todas las caracteristicas del problema contempladas en el (requerimientos).&lt;br&gt;&lt;br&gt;&lt;b&gt;Correción:&lt;/b&gt;&amp;nbsp;Un modelo es correcto si cada elemento en su construcción fue utilizado con propiedad (Ver que todas las cardinalidades, coberturas, identificadores estén expresados).&lt;br&gt;&lt;br&gt;&lt;b&gt;Expresividad:&lt;/b&gt;&amp;nbsp;Un modelo es expresivo si a partir de su obversación puede notarse todos los detalles del modelo (Por ej: usando jerarquías que sean coherentes).&lt;br&gt;&lt;br&gt;&lt;b&gt;Extensible: &lt;/b&gt;es extensible si es fácilmente modificable para incoporar nuevos conceptos en él.&lt;br&gt;&lt;br&gt;&lt;b&gt;Legibilidad:&lt;/b&gt;&amp;nbsp;Es legible si la representación es adecuada.&lt;br&gt;&lt;br&gt;&lt;b&gt;Mínimo&lt;/b&gt;: un esquema es mínimo cuando cada concepto se representa una sola vez en el modelo (&lt;font color=&quot;#3333ff&quot;&gt;Atributos derivados&lt;/font&gt; y &lt;font color=&quot;#3333ff&quot;&gt;ciclos de relaciones&lt;/font&gt;)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="zVYn1wIajbFpz_sPNIYx-64" vertex="1">
           <mxGeometry y="31.879999999999995" width="350" height="348.12" as="geometry" />
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-8" value="MEJORAR MODELO CONCEPTUAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="zVYn1wIajbFpz_sPNIYx-64" vertex="1">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-8" value="MEJORAR MODELO CONCEPTUAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;strokeWidth=2;" parent="zVYn1wIajbFpz_sPNIYx-64" vertex="1">
           <mxGeometry width="350" height="31.88" as="geometry" />
+        </mxCell>
+        <mxCell id="zVYn1wIajbFpz_sPNIYx-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="yR6vh7apyY_7gsYLu8oF-1" source="yR6vh7apyY_7gsYLu8oF-2" target="SoOxSxhJbX_ROLQLt3yH-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="180" as="sourcePoint" />
+            <mxPoint x="890" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
