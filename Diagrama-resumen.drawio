@@ -1,32 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T19:05:10.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wGBl7LnoWB8DJVEpjinw" version="20.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-31T03:33:43.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hM9P8kX7rVo4Su6VANN1" version="20.2.2" type="github" pages="8">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS">
     <mxGraphModel dx="1629" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="igbWti4xABd6nXq-48ni-31" value="&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Evitar redundancia e inconsistencia de datos.&lt;br&gt;&lt;br&gt;&lt;/span&gt;Permitir el acceso a los datos en todo momento.&amp;nbsp;&lt;br&gt;Ejemplo: Sistemas antiguos funcionan de 8hs a 20hs.&lt;br&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;Evitar anomalías en acceso concurrente.&lt;br&gt;Ejemplo: SIU colapsando en inscripciones.&lt;br&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;Restricción de accesos no autorizados.&lt;br&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;Suministro de almacenamiento persistente de datos, incluso ante fallos.&lt;br&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;Integridad de datos (Integridad Referencial)&lt;br&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;Backups. Acceso posible durante backups. backups incrementales en vez de backups completos.&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="300" width="290" height="320" as="geometry" />
+        <mxCell id="igbWti4xABd6nXq-48ni-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Evitar redundancia e inconsistencia de datos.&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Permitir el acceso a los datos en todo momento.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ejemplo: Sistemas antiguos funcionan de 8hs a 20hs.&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Evitar anomalías en acceso concurrente.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ejemplo: SIU colapsando en inscripciones.&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Restricción de accesos no autorizados.&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Suministro de almacenamiento persistente de datos, incluso ante fallos.&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Integridad de datos (Integridad Referencial)&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Backups. Acceso posible durante backups. backups incrementales en vez de backups completos.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="90" y="330" width="290" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="82b8sqedpG5tDT-W9cHj-5" value="* Representa aspectos del mundo real." style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="110" width="230" height="30" as="geometry" />
+        <mxCell id="82b8sqedpG5tDT-W9cHj-5" value="Representa aspectos del mundo real." style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="710" y="110" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="82b8sqedpG5tDT-W9cHj-6" value="* Colección coherente de datos. Una BD no puede ser un conjunto &lt;b&gt;aleatorio &lt;/b&gt;de datos." style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="82b8sqedpG5tDT-W9cHj-6" value="Colección coherente de datos. Una BD no puede ser un conjunto &lt;b&gt;aleatorio &lt;/b&gt;de datos." style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="711.12" y="190" width="248.88" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hzKp8I5DXXiYu1HuEsjh-1" value="* Sustentada fisicamente en archivos en Hardware." style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="710.37" y="150" width="229.63" height="30" as="geometry" />
+        <mxCell id="hzKp8I5DXXiYu1HuEsjh-1" value="Sustentada fisicamente en archivos en Hardware." style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="710.37" y="150" width="249.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5L1Ravf5SmVqJsjnQwp-2" value="OBJETIVOS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="185" y="310" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-19" value="COMPONENTES" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="805" y="314" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-22" value="&lt;b&gt;Data Definition Language&lt;/b&gt;: &lt;br&gt;Para especificar el esquema de la DB." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="660" y="364" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-23" value="&lt;b&gt;Data Manipulation Language&lt;/b&gt;: Para Consulta y ABM de la DB." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="875" y="364" width="170" height="40" as="geometry" />
+          <mxGeometry x="90" y="300" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igbWti4xABd6nXq-48ni-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;endFill=0;" parent="1" source="YkasmrUL78mk4Idyccp_-4" target="H_P_8sTw69ctCnUQdK9h-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,7 +25,7 @@
             <mxPoint x="559.4999999999998" y="180.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wD_Ywh5_8zudszil0bwi-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="y5L1Ravf5SmVqJsjnQwp-19" edge="1">
+        <mxCell id="wD_Ywh5_8zudszil0bwi-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="y5L1Ravf5SmVqJsjnQwp-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="644" y="319" as="sourcePoint" />
           </mxGeometry>
@@ -49,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="igbWti4xABd6nXq-48ni-7" value="¿QUÉ ES UN DATO?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="230" y="120" width="140" height="30" as="geometry" />
+          <mxGeometry x="230" y="120" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igbWti4xABd6nXq-48ni-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H_P_8sTw69ctCnUQdK9h-1" target="igbWti4xABd6nXq-48ni-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -58,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="igbWti4xABd6nXq-48ni-9" value="Hechos conocidos que pueden &lt;b&gt;registrarse &lt;/b&gt;y tienen un &lt;b&gt;valor&lt;/b&gt;&amp;nbsp;&lt;b&gt;implícito&lt;/b&gt;." style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="150" width="140" height="60" as="geometry" />
+          <mxGeometry x="230" y="150" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="igbWti4xABd6nXq-48ni-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H_P_8sTw69ctCnUQdK9h-1" target="82b8sqedpG5tDT-W9cHj-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -78,7 +69,7 @@
             <mxPoint x="637.4099999999999" y="144.19999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="igbWti4xABd6nXq-48ni-26" value="" style="endArrow=none;html=1;rounded=0;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.011;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="igbWti4xABd6nXq-48ni-4" target="igbWti4xABd6nXq-48ni-31" edge="1">
+        <mxCell id="igbWti4xABd6nXq-48ni-26" value="" style="endArrow=none;html=1;rounded=0;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.002;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="igbWti4xABd6nXq-48ni-4" target="igbWti4xABd6nXq-48ni-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="555" y="340" as="sourcePoint" />
             <mxPoint x="603.5" y="495" as="targetPoint" />
@@ -87,23 +78,11 @@
         <mxCell id="LoTI6cqvOIeO2nbHAi1N-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="igbWti4xABd6nXq-48ni-9" target="igbWti4xABd6nXq-48ni-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LoTI6cqvOIeO2nbHAi1N-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="y5L1Ravf5SmVqJsjnQwp-19" target="y5L1Ravf5SmVqJsjnQwp-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="771.5" y="404" as="sourcePoint" />
-            <mxPoint x="750" y="364" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LoTI6cqvOIeO2nbHAi1N-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="y5L1Ravf5SmVqJsjnQwp-19" target="y5L1Ravf5SmVqJsjnQwp-23" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="771.5" y="404" as="sourcePoint" />
-            <mxPoint x="821.5" y="354" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H_P_8sTw69ctCnUQdK9h-1" value="&lt;h3&gt;Base de Datos&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="1" vertex="1">
           <mxGeometry x="453.5" y="100" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BdqFO9HoGA1IeoqT3bPq-1" value="Coleccion de&amp;nbsp;&lt;b&gt;datos&amp;nbsp;&lt;/b&gt;&lt;b&gt;relacionados&amp;nbsp;&lt;/b&gt;que sirven un propósito." style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="70" width="230" height="30" as="geometry" />
+        <mxCell id="BdqFO9HoGA1IeoqT3bPq-1" value="Coleccion de&amp;nbsp;&lt;b&gt;datos&amp;nbsp;&lt;/b&gt;&lt;b&gt;relacionados&amp;nbsp;&lt;/b&gt;que sirven un propósito." style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="710" y="70" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YkasmrUL78mk4Idyccp_-4" value="&lt;b&gt;DBMS&lt;/b&gt;(Data Base&lt;br&gt;Managament System)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="464" y="250" width="180" height="40" as="geometry" />
@@ -114,23 +93,26 @@
             <mxPoint x="730" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MxlqGAjMYXdnvJAsdtLl-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="460" width="235" height="120" as="geometry" />
+        <mxCell id="GKX9rj0XWCxyyWpW0t6m-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="711.12" y="300" width="235" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="wD_Ywh5_8zudszil0bwi-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="MxlqGAjMYXdnvJAsdtLl-1" vertex="1">
-          <mxGeometry width="235" height="120" as="geometry" />
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-19" value="COMPONENTES" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" parent="GKX9rj0XWCxyyWpW0t6m-4" vertex="1">
+          <mxGeometry width="235" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-24" value="&lt;b&gt;Procedimentales &lt;/b&gt;(SQL): Requiere que el usuario especifique que datos se muestran y como obtenerlos" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;perimeterSpacing=1;strokeColor=#CCCCCC;" parent="MxlqGAjMYXdnvJAsdtLl-1" vertex="1">
-          <mxGeometry x="6.3799999999999955" y="10" width="220" height="50" as="geometry" />
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-22" value="&lt;b&gt;Data Definition Language&lt;/b&gt;: &lt;br&gt;Para especificar el esquema de la DB." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=5;" parent="GKX9rj0XWCxyyWpW0t6m-4" vertex="1">
+          <mxGeometry y="30" width="235" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="y5L1Ravf5SmVqJsjnQwp-25" value="&lt;b&gt;No precedimentales&lt;/b&gt; (QBE): Solo requiere esicificar los datos que se quieren" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MxlqGAjMYXdnvJAsdtLl-1" vertex="1">
-          <mxGeometry y="70" width="232.75" height="40" as="geometry" />
+        <mxCell id="y5L1Ravf5SmVqJsjnQwp-23" value="&lt;b&gt;Data Manipulation Language&lt;/b&gt;: Para Consulta y ABM de la DB." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=5;" parent="GKX9rj0XWCxyyWpW0t6m-4" vertex="1">
+          <mxGeometry y="80" width="235" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wD_Ywh5_8zudszil0bwi-3" value="&lt;b&gt;Procedimentales&amp;nbsp;&lt;/b&gt;(SQL): Requiere que el usuario especifique que datos se muestran y como obtenerlos.&lt;br&gt;&lt;br&gt;&lt;b&gt;No precedimentales&lt;/b&gt;&amp;nbsp;(QBE): Solo requiere esicificar los datos que se quieren" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=5;" parent="GKX9rj0XWCxyyWpW0t6m-4" vertex="1">
+          <mxGeometry y="120" width="235" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="FztRDpFghhkUc0C4HoaS" name="Modelos de datos">
-    <mxGraphModel dx="1425" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2280" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="wAuXZagQ3o1Ts092lAWZ-0" />
         <mxCell id="wAuXZagQ3o1Ts092lAWZ-1" parent="wAuXZagQ3o1Ts092lAWZ-0" />
@@ -164,7 +146,7 @@
         <mxCell id="FIEg2f-IqWj-XwJC0ZLa-6" value="&lt;b&gt;Físico:&lt;/b&gt; describe como se almacenan realmente los datos (archivos en discos)." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wAuXZagQ3o1Ts092lAWZ-1" vertex="1">
           <mxGeometry x="307" y="280" width="166" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="FIEg2f-IqWj-XwJC0ZLa-7" value="Serie de conceptos que sirven para &lt;b&gt;describir un conjunto de datos y las operaciones para administrarlos.&lt;/b&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontStyle=0" parent="wAuXZagQ3o1Ts092lAWZ-1" vertex="1">
+        <mxCell id="FIEg2f-IqWj-XwJC0ZLa-7" value="&lt;u&gt;Definición:&lt;/u&gt; Serie de conceptos que sirven para &lt;b&gt;describir un conjunto de datos y las operaciones para administrarlos.&lt;/b&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontStyle=0" parent="wAuXZagQ3o1Ts092lAWZ-1" vertex="1">
           <mxGeometry x="720" y="105" width="250" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="FIEg2f-IqWj-XwJC0ZLa-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="wAuXZagQ3o1Ts092lAWZ-1" source="FIEg2f-IqWj-XwJC0ZLa-2" target="FIEg2f-IqWj-XwJC0ZLa-7" edge="1">
@@ -266,22 +248,22 @@
         <mxCell id="NNj5zsU1d70LZ2bwkTFF-10" value="&lt;div&gt;&lt;b&gt;Conceptual&amp;nbsp;&lt;/b&gt;representación abstracta&lt;/div&gt;&lt;div&gt;integrando las vistas (como maqueta).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0;" parent="wAuXZagQ3o1Ts092lAWZ-1" vertex="1">
           <mxGeometry x="690" y="470" width="220" height="48.76" as="geometry" />
         </mxCell>
-        <mxCell id="_x0XzA692Dflui3qZVzZ-0" value="&lt;b&gt;OBJETIVOS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="wAuXZagQ3o1Ts092lAWZ-1">
+        <mxCell id="_x0XzA692Dflui3qZVzZ-0" value="&lt;b&gt;OBJETIVOS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" parent="wAuXZagQ3o1Ts092lAWZ-1" vertex="1">
           <mxGeometry x="720" y="157.5" width="250" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="_aeekphJmQ_JxzKB2d0n" name="Modelo ER - Conceptual">
-    <mxGraphModel dx="1629" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="yR6vh7apyY_7gsYLu8oF-0" />
         <mxCell id="yR6vh7apyY_7gsYLu8oF-1" parent="yR6vh7apyY_7gsYLu8oF-0" />
-        <mxCell id="SoOxSxhJbX_ROLQLt3yH-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Abstraer la información de un problema.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Captar las necesidad del cliente respecto al problema.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mejora la interacción cliente / desarrollador disminuyendo la brecha entre la realidad del problema y el sistema a desarrollar.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;spacingLeft=7;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
+        <mxCell id="SoOxSxhJbX_ROLQLt3yH-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Abstraer la información de un problema.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Captar las necesidad del cliente respecto al problema.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mejora la interacción cliente-desarrollador disminuyendo la brecha entre la realidad del problema y el sistema a desarrollar.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;spacingLeft=-19;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
           <mxGeometry x="654.75" y="40.00000000000001" width="350" height="96.88" as="geometry" />
         </mxCell>
-        <mxCell id="ZbFmldifANwtl0lqOs82-0" value="&lt;b style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;Expresividad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;disponer de todos los medios necesarios para describir un problema.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Formalidad:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;cada elemento representado sea preciso y bien definido, con una sola. interpretación posible.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Minimalidad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;cada elemento tiene una única representación posible.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Simplicidad:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;el modelo debe ser fácil de entender por el cliente y por el desarrollador.&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
-          <mxGeometry x="42.75" y="80" width="317.25" height="210" as="geometry" />
+        <mxCell id="ZbFmldifANwtl0lqOs82-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Expresividad:&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;disponer de todos los medios necesarios para describir un problema.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Formalidad:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cada elemento representado sea preciso y bien definido, con una sola. interpretación posible.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Minimalidad:&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;cada elemento tiene una única representación posible.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Simplicidad:&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;el modelo debe ser fácil de entender por el cliente y por el desarrollador.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;spacingTop=0;spacing=0;spacingLeft=5;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1">
+          <mxGeometry x="42.75" y="110" width="317.25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SoOxSxhJbX_ROLQLt3yH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#3333FF;" parent="yR6vh7apyY_7gsYLu8oF-1" target="ZbFmldifANwtl0lqOs82-0" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -420,9 +402,6 @@
         <mxCell id="zVYn1wIajbFpz_sPNIYx-36" value="ATRIBUTOS DERIVADOS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" parent="zVYn1wIajbFpz_sPNIYx-53" vertex="1">
           <mxGeometry x="89.5" width="191" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zVYn1wIajbFpz_sPNIYx-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zVYn1wIajbFpz_sPNIYx-53" source="zVYn1wIajbFpz_sPNIYx-37" target="zVYn1wIajbFpz_sPNIYx-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zVYn1wIajbFpz_sPNIYx-37" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Representan información que se puede obtener de otra forma.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zVYn1wIajbFpz_sPNIYx-53" vertex="1">
           <mxGeometry x="89.5" y="30" width="191" height="50" as="geometry" />
         </mxCell>
@@ -483,10 +462,10 @@
         <mxCell id="zVYn1wIajbFpz_sPNIYx-4" value="Una jerarquía que presenta un solo conjunto de entidades como hijo.&amp;nbsp;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zVYn1wIajbFpz_sPNIYx-62" vertex="1">
           <mxGeometry x="0.25" y="40" width="199.75" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zVYn1wIajbFpz_sPNIYx-64" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1" connectable="0">
+        <mxCell id="zVYn1wIajbFpz_sPNIYx-64" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;align=left;spacingLeft=5;" parent="yR6vh7apyY_7gsYLu8oF-1" vertex="1" connectable="0">
           <mxGeometry x="790" y="160" width="350" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="gj7wNLteCC-HCq0XYJLv-10" value="&lt;b&gt;Autoexplicativo:&lt;/b&gt;&amp;nbsp;el modelo se expresa a sí mismo si puede presentarse con los elementos definidos, sin necesidad de utilizar aclaraciones.&lt;br&gt;&lt;br&gt;&lt;b&gt;Completitud&lt;/b&gt;: Un modelo está completo cuando estas todas las caracteristicas del problema contempladas en el (requerimientos).&lt;br&gt;&lt;br&gt;&lt;b&gt;Correción:&lt;/b&gt;&amp;nbsp;Un modelo es correcto si cada elemento en su construcción fue utilizado con propiedad (Ver que todas las cardinalidades, coberturas, identificadores estén expresados).&lt;br&gt;&lt;br&gt;&lt;b&gt;Expresividad:&lt;/b&gt;&amp;nbsp;Un modelo es expresivo si a partir de su obversación puede notarse todos los detalles del modelo (Por ej: usando jerarquías que sean coherentes).&lt;br&gt;&lt;br&gt;&lt;b&gt;Extensible: &lt;/b&gt;es extensible si es fácilmente modificable para incoporar nuevos conceptos en él.&lt;br&gt;&lt;br&gt;&lt;b&gt;Legibilidad:&lt;/b&gt;&amp;nbsp;Es legible si la representación es adecuada.&lt;br&gt;&lt;br&gt;&lt;b&gt;Mínimo&lt;/b&gt;: un esquema es mínimo cuando cada concepto se representa una sola vez en el modelo (&lt;font color=&quot;#3333ff&quot;&gt;Atributos derivados&lt;/font&gt; y &lt;font color=&quot;#3333ff&quot;&gt;ciclos de relaciones&lt;/font&gt;)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="zVYn1wIajbFpz_sPNIYx-64" vertex="1">
+        <mxCell id="gj7wNLteCC-HCq0XYJLv-10" value="&lt;b&gt;Autoexplicativo:&lt;/b&gt;&amp;nbsp;el modelo se expresa a sí mismo si puede presentarse con los elementos definidos, sin necesidad de utilizar aclaraciones.&lt;br&gt;&lt;br&gt;&lt;b&gt;Completitud&lt;/b&gt;: Un modelo está completo cuando estas todas las caracteristicas del problema contempladas en el (requerimientos).&lt;br&gt;&lt;br&gt;&lt;b&gt;Correción:&lt;/b&gt;&amp;nbsp;Un modelo es correcto si cada elemento en su construcción fue utilizado con propiedad (Ver que todas las cardinalidades, coberturas, identificadores estén expresados).&lt;br&gt;&lt;br&gt;&lt;b&gt;Expresividad:&lt;/b&gt;&amp;nbsp;Un modelo es expresivo si a partir de su obversación puede notarse todos los detalles del modelo (Por ej: usando jerarquías que sean coherentes).&lt;br&gt;&lt;br&gt;&lt;b&gt;Extensible: &lt;/b&gt;es extensible si es fácilmente modificable para incoporar nuevos conceptos en él.&lt;br&gt;&lt;br&gt;&lt;b&gt;Legibilidad:&lt;/b&gt;&amp;nbsp;Es legible si la representación es adecuada.&lt;br&gt;&lt;br&gt;&lt;b&gt;Mínimo&lt;/b&gt;: un esquema es mínimo cuando cada concepto se representa una sola vez en el modelo (&lt;font color=&quot;#3333ff&quot;&gt;Atributos derivados&lt;/font&gt; y &lt;font color=&quot;#3333ff&quot;&gt;ciclos de relaciones&lt;/font&gt;)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=5;" parent="zVYn1wIajbFpz_sPNIYx-64" vertex="1">
           <mxGeometry y="31.879999999999995" width="350" height="348.12" as="geometry" />
         </mxCell>
         <mxCell id="gj7wNLteCC-HCq0XYJLv-8" value="MEJORAR MODELO CONCEPTUAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1;strokeWidth=1;" parent="zVYn1wIajbFpz_sPNIYx-64" vertex="1">
@@ -502,11 +481,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jSs8BRx_d-3OebWh5dnl" name="Modelo Físico">
-    <mxGraphModel dx="1900" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="535" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-21" value="&lt;b&gt;1 a 1: &lt;/b&gt;Se genera una única tabla que contenga a ambas entidades.&lt;br&gt;&lt;br&gt;&lt;b&gt;N a N:&lt;/b&gt;&amp;nbsp;Se genera una tabla que relaciona a las 2 entidades.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N &lt;/b&gt;- &lt;b&gt;Participación total de N&lt;/b&gt;: Se pone la CP de la entidad de muchos como CF en la entidad de 1.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de N:&lt;/b&gt;&amp;nbsp;Se resuelve igual que el caso anterior.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de 1:&amp;nbsp;&lt;/b&gt;Se genera una tabla que relaciona a las 2 entidades. Si se resolviera como la opcióin anterior, hay riesgo de atributos nulos.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de ambos: &lt;/b&gt;Resuelve igual que caso anterior.&lt;br&gt;&lt;br&gt;&lt;b&gt;Jerarquía: &lt;/b&gt;Las entidades hijas tienen como CP la CP de la entidad padre, pero solo será un autoincremental en la tabla del padre.&lt;br&gt;&lt;br&gt;&lt;b&gt;Recursivas: &lt;/b&gt;Se tiene la CP de la entidad 2 veces como atributos distintos (Ej: correlativas)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-21" value="&lt;b&gt;1 a 1: &lt;/b&gt;Se genera una única tabla que contenga a ambas entidades.&lt;br&gt;&lt;br&gt;&lt;b&gt;N a N:&lt;/b&gt;&amp;nbsp;Se genera una tabla que relaciona a las 2 entidades.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N &lt;/b&gt;- &lt;b&gt;Participación total de N&lt;/b&gt;: Se pone la CP de la entidad de muchos como CF en la entidad de 1.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de N:&lt;/b&gt;&amp;nbsp;Se resuelve igual que el caso anterior.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de 1:&amp;nbsp;&lt;/b&gt;Se genera una tabla que relaciona a las 2 entidades. Si se resolviera como la opcióin anterior, hay riesgo de atributos nulos.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de ambos: &lt;/b&gt;Resuelve igual que caso anterior.&lt;br&gt;&lt;br&gt;&lt;b&gt;Jerarquía: &lt;/b&gt;Las entidades hijas tienen como CP la CP de la entidad padre, pero solo será un autoincremental en la tabla del padre.&lt;br&gt;&lt;br&gt;&lt;b&gt;Recursivas: &lt;/b&gt;Se tiene la CP de la entidad 2 veces como atributos distintos (Ej: correlativas)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="540" y="330" width="280" height="390" as="geometry" />
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-13" edge="1">
@@ -515,10 +494,10 @@
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-14" edge="1">
+        <mxCell id="O4IrY1RszwjmfdrU8u5A-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O4IrY1RszwjmfdrU8u5A-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-2">
+        <mxCell id="8oVutjA4Qeqox-pimURL-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ElcPMYtuCitNytgYrpSk-1" value="&lt;b&gt;MODELO FÍSICO RELACIONAL&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -530,44 +509,44 @@
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="LAFkxnOpKaz8uj2J0HjF-3" target="LAFkxnOpKaz8uj2J0HjF-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-3" value="&lt;b&gt;ELIMINACIÓN&lt;br&gt;IDENTIFICADORES EXTERNOS.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="340" y="320" width="180" height="55" as="geometry" />
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-3" value="&lt;b&gt;ELIMINACIÓN&lt;br&gt;IDENTIFICADORES EXTERNOS.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="340" y="295" width="180" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-10" value="Se incorporan dentro de la identidad aquellos atributos que sean necesarios para la definición del identificador de forma interna." style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="375" width="180" height="80" as="geometry" />
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-10" value="Se incorporan dentro de la identidad aquellos atributos que sean necesarios para la definición del identificador de forma interna." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="350" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="LAFkxnOpKaz8uj2J0HjF-13" target="LAFkxnOpKaz8uj2J0HjF-3" edge="1">
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=none;startFill=0;" parent="1" source="LAFkxnOpKaz8uj2J0HjF-13" target="LAFkxnOpKaz8uj2J0HjF-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O4IrY1RszwjmfdrU8u5A-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LAFkxnOpKaz8uj2J0HjF-13" target="LAFkxnOpKaz8uj2J0HjF-17">
+        <mxCell id="O4IrY1RszwjmfdrU8u5A-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LAFkxnOpKaz8uj2J0HjF-13" target="LAFkxnOpKaz8uj2J0HjF-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-13" value="&lt;b&gt;PROCESO DE CONVERSIÓN A&lt;br&gt;MODELO FÍSICO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="495" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-14" value="Un &lt;b&gt;identificador &lt;/b&gt;sirve para distinguir una entidad del conjunto de entidades.&lt;br&gt;&lt;br&gt;Se elige como &lt;b&gt;CP &lt;/b&gt;aquel identificador que sea en lo posible simple y ocupe menos espacio, ya que es más eficiente para el acceso físico.&lt;br&gt;&lt;br&gt;El resto de los identificadores serán &lt;b&gt;CC&lt;/b&gt;, que se utilizarán para generar índices secundarios." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="370" width="200" height="190" as="geometry" />
+          <mxGeometry x="100" y="340" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-12" value="&lt;b&gt;IDENTIFICADORES,&lt;br&gt;CLAVES PRIMARIAS &lt;br&gt;Y CANDIDATAS&lt;/b&gt;" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="320" width="200" height="50" as="geometry" />
+          <mxGeometry x="100" y="290" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-17" value="&lt;b&gt;CONVERSIÓN DE ENTIDADES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-17" value="&lt;b&gt;CONVERSIÓN DE ENTIDADES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="540" y="295" width="280" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-25" value="Propiedad &lt;b&gt;deseable&lt;/b&gt;&amp;nbsp;en BD relacionales. Asegura que un valor que aparece para un atributo en una tabla, aparezca en otra para el mismo atributo." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="880" y="77.5" width="240" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-26" value="&lt;b&gt;Restringir operación: &lt;/b&gt;si se intenta borrar/modificar una tupla que tiene IR con otra, no se permite llevar a cabo. Ej:&lt;br&gt;Teniendo las tablas CLIENTES y FACTURAS, para borrar un cliente es necesario que no tenga facturas, sino no se permite borrar al cliente.&lt;br&gt;&lt;br&gt;&lt;b&gt;Realizar operación en Cascada: &lt;/b&gt;Si se intenta borrar/modificar una tupla donde esta definida la CP de la IR, la operación se realiza en cadena sobre todas las tuplas de la tabla que tiene definida la CF.&lt;br&gt;&lt;br&gt;&lt;b&gt;Establecer CF en nulo:&lt;/b&gt;&amp;nbsp;si se borra/modifica el valor del atributo que es CP, sobra la CF se establece en nulo.&lt;br&gt;&lt;br&gt;&lt;b&gt;No hacer nada: &lt;/b&gt;No se controla la IR. Equivale a no tener restricciones de IR." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=10;" parent="1" vertex="1">
-          <mxGeometry x="900" y="250" width="240" height="310" as="geometry" />
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-26" value="&lt;b&gt;Restringir operación: &lt;/b&gt;si se intenta borrar/modificar una tupla que tiene IR con otra, no se permite llevar a cabo. Ej:&lt;br&gt;Teniendo las tablas CLIENTES y FACTURAS, para borrar un cliente es necesario que no tenga facturas, sino no se permite borrar al cliente.&lt;br&gt;&lt;br&gt;&lt;b&gt;Realizar operación en Cascada: &lt;/b&gt;Si se intenta borrar/modificar una tupla donde esta definida la CP de la IR, la operación se realiza en cadena sobre todas las tuplas de la tabla que tiene definida la CF.&lt;br&gt;&lt;br&gt;&lt;b&gt;Establecer CF en nulo:&lt;/b&gt;&amp;nbsp;si se borra/modifica el valor del atributo que es CP, sobra la CF se establece en nulo.&lt;br&gt;&lt;br&gt;&lt;b&gt;No hacer nada: &lt;/b&gt;No se controla la IR. Equivale a no tener restricciones de IR." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="880" y="255" width="240" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-27" value="&lt;b&gt;ESCENARIOS I.R.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="900" y="230" width="240" height="30" as="geometry" />
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-27" value="&lt;b&gt;ESCENARIOS I.R.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="880" y="235" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-29" value="Plantea restricciones entre tablas y sirve para mantener la&amp;nbsp;&lt;b&gt;consistencia&amp;nbsp;&lt;/b&gt;entre las tuplas de dichas tablas." style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="880" y="142.5" width="240" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="O4IrY1RszwjmfdrU8u5A-1" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="97.5" width="190" height="175" as="geometry" />
+        <mxCell id="O4IrY1RszwjmfdrU8u5A-1" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="60" width="190" height="175" as="geometry" />
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-2" value="&lt;b&gt;TABLAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="O4IrY1RszwjmfdrU8u5A-1" vertex="1">
           <mxGeometry width="190" height="25" as="geometry" />
