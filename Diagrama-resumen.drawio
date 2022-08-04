@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T04:30:00.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ksz2HE8A1KfWhv2H5s45" version="20.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-08-04T05:21:44.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fwUSOTh2p4ZcJHESPpw6" version="20.2.2" type="github" pages="8">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS [Checked]">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -464,7 +464,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qapTlA4FvjPZXz4BUkvx" name="Modelo lógico">
+  <diagram id="qapTlA4FvjPZXz4BUkvx" name="Modelo lógico [Checked]">
     <mxGraphModel dx="1341" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="3ZMjvVlKsP4-TXyuE5Z5-0" />
@@ -539,17 +539,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jSs8BRx_d-3OebWh5dnl" name="Modelo Físico">
-    <mxGraphModel dx="2073" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8oVutjA4Qeqox-pimURL-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=1;endArrow=classic;endFill=1;" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lYvJv2HbGPDn7Hzcblqr-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lYvJv2HbGPDn7Hzcblqr-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-1" edge="1">
+        <mxCell id="lYvJv2HbGPDn7Hzcblqr-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lYvJv2HbGPDn7Hzcblqr-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="ElcPMYtuCitNytgYrpSk-1" target="LAFkxnOpKaz8uj2J0HjF-13" edge="1">
@@ -559,28 +556,19 @@
           <mxGeometry x="500" y="30" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="O4IrY1RszwjmfdrU8u5A-1" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="90" y="83.75" width="190" height="175" as="geometry" />
+          <mxGeometry x="130" y="80" width="190" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-2" value="&lt;b&gt;TABLAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="O4IrY1RszwjmfdrU8u5A-1" vertex="1">
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-2" value="&lt;b&gt;TABLAS/RELACIONES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="O4IrY1RszwjmfdrU8u5A-1" vertex="1">
           <mxGeometry width="190" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-4" value="El modelo relacional representa a una BD como una colección de archivos denominados &lt;b&gt;tablas&lt;/b&gt;, las cuales se conforman por registros." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="O4IrY1RszwjmfdrU8u5A-1" vertex="1">
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-4" value="El modelo relacional representa la BD como una colección de archivos denominados &lt;b&gt;tablas&lt;/b&gt;, las cuales se conforman por registros." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="O4IrY1RszwjmfdrU8u5A-1" vertex="1">
           <mxGeometry y="25" width="190" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-8" value="Las &lt;b&gt;filas o tuplas&lt;/b&gt; representan un registro del archivo, mientras que las &lt;b&gt;columnas &lt;/b&gt;representan un atributo del registro." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="O4IrY1RszwjmfdrU8u5A-1" vertex="1">
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-8" value="Las &lt;b&gt;filas o tuplas&lt;/b&gt; representan un registro o elemento del archivo, mientras que las &lt;b&gt;columnas &lt;/b&gt;representan un atributo." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="O4IrY1RszwjmfdrU8u5A-1" vertex="1">
           <mxGeometry y="100" width="190" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="lYvJv2HbGPDn7Hzcblqr-3" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="80" y="303.75" width="200" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-14" value="Un &lt;b&gt;identificador &lt;/b&gt;sirve para distinguir una entidad del conjunto de entidades.&lt;br&gt;&lt;br&gt;Se elige como &lt;b&gt;CP &lt;/b&gt;aquel identificador que sea en lo posible simple y ocupe menos espacio, ya que es más eficiente para el acceso físico.&lt;br&gt;&lt;br&gt;El resto de los identificadores serán &lt;b&gt;CC&lt;/b&gt;, que se utilizarán para generar índices secundarios." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="lYvJv2HbGPDn7Hzcblqr-3" vertex="1">
-          <mxGeometry y="50" width="200" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-12" value="&lt;b&gt;IDENTIFICADORES,&lt;br&gt;CLAVES PRIMARIAS &lt;br&gt;Y CANDIDATAS&lt;/b&gt;" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lYvJv2HbGPDn7Hzcblqr-3" vertex="1">
-          <mxGeometry width="200" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="lYvJv2HbGPDn7Hzcblqr-4" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="364" y="353.75" width="240" height="330" as="geometry" />
+          <mxGeometry x="345" y="310" width="240" height="330" as="geometry" />
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-26" value="&lt;b&gt;Restringir operación: &lt;/b&gt;si se intenta borrar/modificar una tupla que tiene IR con otra, no se permite llevar a cabo. Ej:&lt;br&gt;Teniendo las tablas CLIENTES y FACTURAS, para borrar un cliente es necesario que no tenga facturas, sino no se permite borrar al cliente.&lt;br&gt;&lt;br&gt;&lt;b&gt;Realizar operación en Cascada: &lt;/b&gt;Si se intenta borrar/modificar una tupla donde esta definida la CP de la IR, la operación se realiza en cadena sobre todas las tuplas de la tabla que tiene definida la CF.&lt;br&gt;&lt;br&gt;&lt;b&gt;Establecer CF en nulo:&lt;/b&gt;&amp;nbsp;si se borra/modifica el valor del atributo que es CP, sobra la CF se establece en nulo.&lt;br&gt;&lt;br&gt;&lt;b&gt;No hacer nada: &lt;/b&gt;No se controla la IR. Equivale a no tener restricciones de IR." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=10;" parent="lYvJv2HbGPDn7Hzcblqr-4" vertex="1">
           <mxGeometry y="20" width="240" height="310" as="geometry" />
@@ -588,26 +576,29 @@
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-27" value="&lt;b&gt;ESCENARIOS I.R.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="lYvJv2HbGPDn7Hzcblqr-4" vertex="1">
           <mxGeometry width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lYvJv2HbGPDn7Hzcblqr-6" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="640" y="80" width="480" height="549" as="geometry" />
+        <mxCell id="lYvJv2HbGPDn7Hzcblqr-8" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="90" y="310" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-13" value="&lt;b&gt;PROCESO DE CONVERSIÓN A&lt;br&gt;MODELO FÍSICO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="lYvJv2HbGPDn7Hzcblqr-6" vertex="1">
-          <mxGeometry x="155" width="120" height="60" as="geometry" />
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-1" value="&lt;b&gt;INTEGRIDAD REFERENCIAL&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="lYvJv2HbGPDn7Hzcblqr-8" vertex="1">
+          <mxGeometry width="240" height="42.10526315789473" as="geometry" />
         </mxCell>
-        <mxCell id="lYvJv2HbGPDn7Hzcblqr-1" value="" style="group" parent="lYvJv2HbGPDn7Hzcblqr-6" vertex="1" connectable="0">
-          <mxGeometry x="200" y="109" width="280" height="440" as="geometry" />
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-25" value="Propiedad &lt;b&gt;deseable&lt;/b&gt;&amp;nbsp;en BD relacionales. Asegura que un valor que aparece para un atributo en una tabla, aparezca en otra para el mismo atributo." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;container=1;" parent="lYvJv2HbGPDn7Hzcblqr-8" vertex="1">
+          <mxGeometry y="42.11" width="240" height="77.89" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-21" value="&lt;b&gt;1 a 1: &lt;/b&gt;Se genera una única tabla que contenga a ambas entidades.&lt;br&gt;&lt;br&gt;&lt;b&gt;N a N:&lt;/b&gt;&amp;nbsp;Se genera una tabla que relaciona a las 2 entidades.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N &lt;/b&gt;- &lt;b&gt;Participación total de N&lt;/b&gt;: Se pone la CP de la entidad de muchos como CF en la entidad de 1.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de N:&lt;/b&gt;&amp;nbsp;Se resuelve igual que el caso anterior.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de 1:&amp;nbsp;&lt;/b&gt;Se genera una tabla que relaciona a las 2 entidades. Si se resolviera como la opcióin anterior, hay riesgo de atributos nulos.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de ambos: &lt;/b&gt;Resuelve igual que caso anterior.&lt;br&gt;&lt;br&gt;&lt;b&gt;Jerarquía: &lt;/b&gt;Las entidades hijas tienen como CP la CP de la entidad padre, pero solo será un autoincremental en la tabla del padre.&lt;br&gt;&lt;br&gt;&lt;b&gt;Recursivas: &lt;/b&gt;Se tiene la CP de la entidad 2 veces como atributos distintos (Ej: correlativas)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=5;" parent="lYvJv2HbGPDn7Hzcblqr-1" vertex="1">
-          <mxGeometry y="35" width="280" height="405" as="geometry" />
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-29" value="Plantea restricciones entre tablas y sirve para mantener la&amp;nbsp;&lt;b&gt;consistencia&amp;nbsp;&lt;/b&gt;entre las tuplas de dichas tablas." style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="lYvJv2HbGPDn7Hzcblqr-8" vertex="1">
+          <mxGeometry y="120.00333333333332" width="240" height="66.66666666666666" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-17" value="&lt;b&gt;CONVERSIÓN DE ENTIDADES!!!!&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="lYvJv2HbGPDn7Hzcblqr-1" vertex="1">
-          <mxGeometry width="280" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="O4IrY1RszwjmfdrU8u5A-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="lYvJv2HbGPDn7Hzcblqr-6" source="LAFkxnOpKaz8uj2J0HjF-13" target="LAFkxnOpKaz8uj2J0HjF-17" edge="1">
+        <mxCell id="8oVutjA4Qeqox-pimURL-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeWidth=1;endArrow=classic;endFill=1;" parent="1" source="LAFkxnOpKaz8uj2J0HjF-13" target="LAFkxnOpKaz8uj2J0HjF-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lYvJv2HbGPDn7Hzcblqr-2" value="" style="group;align=left;spacingLeft=4;" parent="lYvJv2HbGPDn7Hzcblqr-6" vertex="1" connectable="0">
-          <mxGeometry y="109" width="180" height="135" as="geometry" />
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-13" value="&lt;b&gt;PROCESO DE CONVERSIÓN A&lt;br&gt;MODELO FÍSICO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="805" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4IrY1RszwjmfdrU8u5A-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LAFkxnOpKaz8uj2J0HjF-13" target="LAFkxnOpKaz8uj2J0HjF-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYvJv2HbGPDn7Hzcblqr-2" value="" style="group;align=left;spacingLeft=4;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="620" y="200" width="180" height="135" as="geometry" />
         </mxCell>
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-3" value="&lt;b&gt;ELIMINACIÓN&lt;br&gt;IDENTIFICADORES EXTERNOS.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="lYvJv2HbGPDn7Hzcblqr-2" vertex="1">
           <mxGeometry width="180" height="55" as="geometry" />
@@ -618,26 +609,38 @@
         <mxCell id="LAFkxnOpKaz8uj2J0HjF-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="lYvJv2HbGPDn7Hzcblqr-2" source="LAFkxnOpKaz8uj2J0HjF-3" target="LAFkxnOpKaz8uj2J0HjF-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=none;startFill=0;" parent="lYvJv2HbGPDn7Hzcblqr-6" source="LAFkxnOpKaz8uj2J0HjF-13" target="LAFkxnOpKaz8uj2J0HjF-3" edge="1">
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=none;startFill=0;" parent="1" source="LAFkxnOpKaz8uj2J0HjF-13" target="LAFkxnOpKaz8uj2J0HjF-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lYvJv2HbGPDn7Hzcblqr-8" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="365" y="193.75" width="240" height="142.5" as="geometry" />
+        <mxCell id="2eLWNTJDfLtdib_R_ObI-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="358" width="200" height="261" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-1" value="&lt;b&gt;INTEGRIDAD REFERENCIAL&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="lYvJv2HbGPDn7Hzcblqr-8" vertex="1">
-          <mxGeometry width="240" height="30" as="geometry" />
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-14" value="Un &lt;b&gt;identificador &lt;/b&gt;sirve para distinguir una entidad del conjunto de entidades.&lt;br&gt;&lt;br&gt;Se elige como &lt;b&gt;CP &lt;/b&gt;aquel identificador que sea en lo posible &lt;b&gt;simple &lt;/b&gt;y ocupe &lt;b&gt;menos espacio&lt;/b&gt;, ya que es más eficiente para el acceso físico(hashing).&lt;br&gt;&lt;br&gt;El resto de los identificadores serán &lt;b&gt;CC&lt;/b&gt;, que se utilizarán para generar índices secundarios (más rápido para acceso secuencial)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="2eLWNTJDfLtdib_R_ObI-2" vertex="1">
+          <mxGeometry y="54.37499999999999" width="200" height="206.62499999999997" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-25" value="Propiedad &lt;b&gt;deseable&lt;/b&gt;&amp;nbsp;en BD relacionales. Asegura que un valor que aparece para un atributo en una tabla, aparezca en otra para el mismo atributo." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="lYvJv2HbGPDn7Hzcblqr-8" vertex="1">
-          <mxGeometry y="30" width="240" height="65" as="geometry" />
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-12" value="&lt;b&gt;SELECCIÓN DE CLAVES PRIMARIAS Y CANDIDATAS&lt;/b&gt;" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2eLWNTJDfLtdib_R_ObI-2" vertex="1">
+          <mxGeometry width="200" height="54.37499999999999" as="geometry" />
         </mxCell>
-        <mxCell id="LAFkxnOpKaz8uj2J0HjF-29" value="Plantea restricciones entre tablas y sirve para mantener la&amp;nbsp;&lt;b&gt;consistencia&amp;nbsp;&lt;/b&gt;entre las tuplas de dichas tablas." style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="lYvJv2HbGPDn7Hzcblqr-8" vertex="1">
-          <mxGeometry y="95" width="240" height="47.5" as="geometry" />
+        <mxCell id="2eLWNTJDfLtdib_R_ObI-5" value="El &lt;b&gt;autoincremental &lt;/b&gt;es una opción para elegir una CP, se agrega a lo último ,no se puede modificar modificar y lo administra el DBMS,&amp;nbsp; evitando el error humano del usuario." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="620" y="670" width="200" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="2eLWNTJDfLtdib_R_ObI-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LAFkxnOpKaz8uj2J0HjF-14" target="2eLWNTJDfLtdib_R_ObI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eLWNTJDfLtdib_R_ObI-7" value="&lt;b&gt;Clave Foránea:&lt;/b&gt; atributo de una tabla que es CP en otra tabla, sirviendo así como enlace entre ambas." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="90" y="520" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-21" value="&lt;b&gt;1 a 1: &lt;/b&gt;Se genera una única tabla que contenga a ambas entidades.&lt;br&gt;&lt;br&gt;&lt;b&gt;N a N:&lt;/b&gt;&amp;nbsp;Se genera una tabla que relaciona a las 2 entidades.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N &lt;/b&gt;- &lt;b&gt;Participación total de N&lt;/b&gt;: Se pone la CP de la entidad de muchos como CF en la entidad de 1.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de N:&lt;/b&gt;&amp;nbsp;Se resuelve igual que el caso anterior.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de 1:&amp;nbsp;&lt;/b&gt;Se genera una tabla que relaciona a las 2 entidades. Si se resolviera como la opción anterior, hay riesgo de atributos nulos.&lt;br&gt;&lt;br&gt;&lt;b&gt;1 a N - Participación parcial de ambos: &lt;/b&gt;Resuelve igual que caso anterior.&lt;br&gt;&lt;br&gt;&lt;b&gt;Jerarquía: &lt;/b&gt;Las entidades hijas tienen como CP la CP de la entidad padre, pero solo será un autoincremental en la tabla del padre.&lt;br&gt;&lt;br&gt;&lt;b&gt;Recursivas: &lt;/b&gt;Se tiene la CP de la entidad 2 veces como atributos distintos (Ej: correlativas)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="850" y="214" width="280" height="405" as="geometry" />
+        </mxCell>
+        <mxCell id="LAFkxnOpKaz8uj2J0HjF-17" value="&lt;b&gt;CONVERSIÓN DE ENTIDADES!!!!&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="850" y="179" width="280" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ZQCYuy2zkkT1Xxjkr_MO" name="Normalización">
-    <mxGraphModel dx="4019" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2309" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
