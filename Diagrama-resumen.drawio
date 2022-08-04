@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T04:24:19.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xIy4SAPQzENkGBSp1OFb" version="20.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-08-04T04:30:00.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ksz2HE8A1KfWhv2H5s45" version="20.2.2" type="github" pages="8">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS [Checked]">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -465,7 +465,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qapTlA4FvjPZXz4BUkvx" name="Modelo lógico">
-    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1341" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="3ZMjvVlKsP4-TXyuE5Z5-0" />
         <mxCell id="3ZMjvVlKsP4-TXyuE5Z5-1" parent="3ZMjvVlKsP4-TXyuE5Z5-0" />
@@ -481,20 +481,17 @@
         <mxCell id="r2bIBUAW8WoRqN4rFueX-0" value="&lt;h3&gt;&amp;nbsp;MODELO LÓGICO&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
           <mxGeometry x="500" y="80" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H7LvdwyLH_QTL9qMdOXB-0" value="Para llegar a un modelo más cercano a la representación del SGBD." style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="780" y="85" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="H7LvdwyLH_QTL9qMdOXB-3" value="Se debe definir el&amp;nbsp; tipo de SGBD, ya que la secuencia de pasos de conversión disponibles tiene estrecha relación con el tipo de SGBD." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="780" y="135" width="230" height="60" as="geometry" />
+        <mxCell id="H7LvdwyLH_QTL9qMdOXB-0" value="Con el modelo lógico se busca llegar a un modelo más cercano a la representación del SGBD." style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+          <mxGeometry x="770" y="85" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="38hNXQZ2Xx3V6MPt7dud-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=none;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="38hNXQZ2Xx3V6MPt7dud-0" target="r2bIBUAW8WoRqN4rFueX-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7LvdwyLH_QTL9qMdOXB-5" value="Como es el esquema conceptual en el que se basará el modelo lógico.&lt;br&gt;&lt;br&gt;Las reglas de conversión (muy ligadas a tipo SGBD).&lt;br&gt;&lt;br&gt;Criterios de rendimiento (velocidad, calidad,etc).&lt;br&gt;&lt;br&gt;Información de carga BD (posible evolución de la BD,&amp;nbsp; archivos de datos muy grandes lentos para búsqueda y ABM)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=5;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="100" y="140" width="260" height="180" as="geometry" />
+        <mxCell id="H7LvdwyLH_QTL9qMdOXB-5" value="Como es el esquema conceptual previo&amp;nbsp; en el que se basará el modelo lógico.&lt;br&gt;&lt;br&gt;Las reglas de conversión (las cuales se encuentran ligadas al tipo SGBD).&lt;br&gt;&lt;br&gt;Criterios de rendimiento (velocidad, almacenamiento, métodos de seguridad, calidad, etc).&lt;br&gt;&lt;br&gt;Información de carga BD (hay que considerar la evolución de la BD,&amp;nbsp; archivos de datos muy grandes se vuelven lentos para búsqueda y ABM)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=5;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+          <mxGeometry x="100" y="140" width="260" height="210" as="geometry" />
         </mxCell>
         <mxCell id="_-OPTebSoDpuE9zwplWB-2" value="Atributos polivalentes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="545" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyEn6_yBOjDyvvPu6fPa-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="XzqkQtYMN95pvWPA0JZx-0" target="_-OPTebSoDpuE9zwplWB-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -502,13 +499,11 @@
         <mxCell id="oyEn6_yBOjDyvvPu6fPa-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="XzqkQtYMN95pvWPA0JZx-0" target="_-OPTebSoDpuE9zwplWB-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oyEn6_yBOjDyvvPu6fPa-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="XzqkQtYMN95pvWPA0JZx-0" target="_-OPTebSoDpuE9zwplWB-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="380" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="6hDuW4uCSmNg_88v3UbT-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="XzqkQtYMN95pvWPA0JZx-0" target="_-OPTebSoDpuE9zwplWB-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XzqkQtYMN95pvWPA0JZx-0" value="ELIMINAR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="710" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MGBd4UWyQUKtR5xtSHYA-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.702;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" source="MGBd4UWyQUKtR5xtSHYA-1" target="MGBd4UWyQUKtR5xtSHYA-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -517,34 +512,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGBd4UWyQUKtR5xtSHYA-1" value="RECONSIDERAR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="310" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MGBd4UWyQUKtR5xtSHYA-4" value="Ciclos de relaciones" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="210" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MGBd4UWyQUKtR5xtSHYA-6" value="&lt;span&gt;Atributos derivados&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="370" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="410" y="413" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MGBd4UWyQUKtR5xtSHYA-9" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;Soluciones:&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Eliminar los hijos, creando una &quot;superentidad&quot; con los atributos de los hijos como opcionales.&lt;/li&gt;&lt;li&gt;Eliminar la entidad padre, y pasar los atributos del padre a c/u de los hijos. (No para cobertura parcial)&lt;/li&gt;&lt;li&gt;Dejar las entidades, y en cambio definir relaciones 1 a 1 ES_UN entre el padre y cada uno de los hijos.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=-21;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="820" y="510" width="240" height="180" as="geometry" />
+          <mxGeometry x="830" y="410" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MGBd4UWyQUKtR5xtSHYA-10" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Soluciones:&lt;/b&gt;&lt;br&gt;&lt;ol style=&quot;line-height: 1.2;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Combinar todos los atributos individuales en uno.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pasar los atributos del atributo compuesto a la entidad o relación.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Crear una entidad con los atributos individuales&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=-22;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="520" y="510" width="250" height="140" as="geometry" />
+          <mxGeometry x="530" y="410" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_-OPTebSoDpuE9zwplWB-3" value="Atributos compuestos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="520" y="470" width="250" height="40" as="geometry" />
+          <mxGeometry x="530" y="370" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_-OPTebSoDpuE9zwplWB-4" value="Jerarquías y subconjuntos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
-          <mxGeometry x="820" y="470" width="240" height="40" as="geometry" />
+          <mxGeometry x="830" y="370" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="38hNXQZ2Xx3V6MPt7dud-0" value="&lt;b&gt;Al realizar el modelo debe tenerse en cuenta las siguientes cuestiones:&lt;/b&gt;" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeWidth=1;spacingLeft=6;perimeterSpacing=1;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+        <mxCell id="38hNXQZ2Xx3V6MPt7dud-0" value="&lt;b&gt;Al realizarse el modelo debe tenerse en cuenta las siguientes cuestiones:&lt;/b&gt;" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;strokeWidth=1;spacingLeft=6;perimeterSpacing=1;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
           <mxGeometry x="100" y="100" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="jSs8BRx_d-3OebWh5dnl" name="Modelo Físico">
-    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2073" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
