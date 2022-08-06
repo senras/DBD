@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T03:16:07.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="c8-j7zNkvzS035bZiXVy" version="20.2.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-06T04:52:33.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_dv2mGgGrGvquzDjvWWP" version="20.2.3" type="github" pages="7">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS [Checked]">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -640,7 +640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZQCYuy2zkkT1Xxjkr_MO" name="Normalización y Dependencias Funcionales">
-    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2073" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -705,7 +705,7 @@
           <mxGeometry x="1630" y="200" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NCkATOIP2m3-h5seGxO0-1" value="&lt;b&gt;TIPOS DE DF&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="496.88" y="210" width="120" height="70" as="geometry" />
+          <mxGeometry x="496.88" y="250" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NCkATOIP2m3-h5seGxO0-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NCkATOIP2m3-h5seGxO0-1" target="CMCfPWTpFXuqtIZ7hjPs-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -731,11 +731,11 @@
             <mxPoint x="135" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NCkATOIP2m3-h5seGxO0-7" value="En un DF X=&amp;gt;Y, al atribuyo X se lo denomina &lt;b&gt;determinante &lt;/b&gt;y al atribuyo Y, &lt;b&gt;consecuente&lt;/b&gt;." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="650" y="180" width="170" height="70" as="geometry" />
+        <mxCell id="NCkATOIP2m3-h5seGxO0-7" value="En un DF X=&amp;gt;Y, al atribuyo X se lo denomina &lt;b&gt;determinante &lt;/b&gt;y al atribuyo Y, &lt;b&gt;consecuente&lt;/b&gt;." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="600" y="160" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AmSPOQJo4OeftMr3BOps-1" value="Si se define DF X=&amp;gt; Y, siendo que no es posible encontrar otra dependencia Z=&amp;gt; Y donde Z sea un subconjunto de X se tiene una&amp;nbsp;&lt;b&gt;DF completa.&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="230" y="180" width="240" height="80" as="geometry" />
+        <mxCell id="AmSPOQJo4OeftMr3BOps-1" value="Si se define DF X=&amp;gt; Y, siendo que no es posible encontrar otra dependencia Z=&amp;gt; Y donde Z sea un subconjunto de X se tiene una&amp;nbsp;&lt;b&gt;DF completa.&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m_9l0PGoa9yWg8N2XHme-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" parent="1" source="AmSPOQJo4OeftMr3BOps-2" target="AmSPOQJo4OeftMr3BOps-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -836,7 +836,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wIwPCtWikKfOdYS3MFQI" name="AR">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
