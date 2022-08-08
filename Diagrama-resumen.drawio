@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T02:30:32.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RYdcU8PoC591gJ4e9JrI" version="20.2.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-08T02:38:12.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KpZTtOH73ltaqRJurb62" version="20.2.3" type="github" pages="7">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS [Checked]">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -640,7 +640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZQCYuy2zkkT1Xxjkr_MO" name="Normalización y Dependencias Funcionales">
-    <mxGraphModel dx="1629" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -651,7 +651,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EpmCPFe7aQTYI6V2jg4i-1" value="&lt;b&gt;NORMALIZACIÓN&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1567.5" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1565" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CMCfPWTpFXuqtIZ7hjPs-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -662,7 +662,7 @@
         <mxCell id="Ka4ySsyJEMqKLfp64e6g-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="EpmCPFe7aQTYI6V2jg4i-2" target="CMCfPWTpFXuqtIZ7hjPs-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EpmCPFe7aQTYI6V2jg4i-2" value="Mecanismo que consiste en aplicar una serie de reglas a un conjunto de tablas, para evitar" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="EpmCPFe7aQTYI6V2jg4i-2" value="Mecanismo que consiste en aplicar una serie de reglas a un conjunto de tablas, para evitar:" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1723.5" y="105" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EpmCPFe7aQTYI6V2jg4i-4" value="DEPENDENCIA FUNCIONAL&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=14;" parent="1" vertex="1">
@@ -768,7 +768,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h3t6Q5xrl8zSvE3mbfr0-4" value="Un modelo está en &lt;b&gt;1FN &lt;/b&gt;si todos los atributos que conforman las tablas del modelo son atributos monovalentes." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1522.5" y="180" width="210" height="60" as="geometry" />
+          <mxGeometry x="1520" y="180" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JiB69gV6pGPcc0OecRqN-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="h3t6Q5xrl8zSvE3mbfr0-5" target="h3t6Q5xrl8zSvE3mbfr0-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -779,13 +779,13 @@
         <mxCell id="JiB69gV6pGPcc0OecRqN-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="h3t6Q5xrl8zSvE3mbfr0-10" target="h3t6Q5xrl8zSvE3mbfr0-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h3t6Q5xrl8zSvE3mbfr0-10" value="Un modelo está en &lt;b&gt;3FN&lt;/b&gt;&amp;nbsp;si está en 2FN y no existe en ninguna tabla del modelo una DF transitiva." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="h3t6Q5xrl8zSvE3mbfr0-10" value="Un modelo está en &lt;b&gt;3FN&lt;/b&gt;&amp;nbsp;si está en 2FN y no tiene DF transitivas." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1520" y="340" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JiB69gV6pGPcc0OecRqN-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="h3t6Q5xrl8zSvE3mbfr0-11" target="m_9l0PGoa9yWg8N2XHme-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h3t6Q5xrl8zSvE3mbfr0-11" value="Un modelo está en &lt;b&gt;FN Boyce-Codd&lt;/b&gt; si está en 3FN y no existe ningun DF de BC en el modelo." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="h3t6Q5xrl8zSvE3mbfr0-11" value="Un modelo está en &lt;b&gt;FN Boyce-Codd&lt;/b&gt; si está en 3FN y no tieneDF de BC." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1520" y="420" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m_9l0PGoa9yWg8N2XHme-3" value="Una DM no es necesariamente una situación anómala para una BD." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -809,7 +809,7 @@
         <mxCell id="m_9l0PGoa9yWg8N2XHme-7" value="&lt;div&gt;Un modelo está en 5FN si está en 4FN y no existen relaciones con &lt;b&gt;dependencias de combinación.&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1520" y="580" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="m_9l0PGoa9yWg8N2XHme-8" value="&lt;span&gt;Una dependencia de combinación es una propiedad de la descomposición que garantiza que no se generen tuplas espurias al volver a combinar las relaciones mediante una operación del álgebra relaciónal.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="m_9l0PGoa9yWg8N2XHme-8" value="&lt;span&gt;Una dependencia de combinación es una propiedad de la descomposición que garantiza que no se generen tuplas espurias al volver a combinar las relaciones mediante una operación del álgebra relaciónal.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="1768.5" y="575" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ka4ySsyJEMqKLfp64e6g-2" value="" style="group" parent="1" vertex="1" connectable="0">
