@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T04:56:56.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dmE24sP1cegcLs1kmPBc" version="20.2.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-08T02:30:32.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RYdcU8PoC591gJ4e9JrI" version="20.2.3" type="github" pages="7">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS [Checked]">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
             <mxPoint x="559.4999999999998" y="180.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wD_Ywh5_8zudszil0bwi-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="y5L1Ravf5SmVqJsjnQwp-22" edge="1" source="igbWti4xABd6nXq-48ni-4">
+        <mxCell id="wD_Ywh5_8zudszil0bwi-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="igbWti4xABd6nXq-48ni-4" target="y5L1Ravf5SmVqJsjnQwp-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="319" as="sourcePoint" />
           </mxGeometry>
@@ -520,10 +520,10 @@
         <mxCell id="MGBd4UWyQUKtR5xtSHYA-6" value="&lt;span&gt;Atributos derivados&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
           <mxGeometry x="410" y="413" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MGBd4UWyQUKtR5xtSHYA-9" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Soluciones:&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Eliminar los hijos, creando una &quot;superentidad&quot; con los atributos de los hijos como opcionales.&lt;/li&gt;&lt;li&gt;Eliminar la entidad padre, y pasar los atributos del padre a c/u de los hijos. (No para cobertura parcial)&lt;/li&gt;&lt;li&gt;Dejar las entidades, y en cambio definir relaciones 1 a 1 ES_UN entre el padre y cada uno de los hijos.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=-21;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+        <mxCell id="MGBd4UWyQUKtR5xtSHYA-9" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Soluciones:&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Eliminar los hijos, creando una &quot;superentidad&quot; con los atributos de los hijos como opcionales.&lt;/li&gt;&lt;li&gt;Eliminar la entidad padre, y pasar los atributos del padre a c/u de los hijos. (No para cobertura parcial)&lt;/li&gt;&lt;li&gt;Dejar las entidades, y en cambio definir relaciones 1 a 1 ES_UN entre el padre y cada uno de los hijos.&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=-21;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
           <mxGeometry x="830" y="410" width="240" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="MGBd4UWyQUKtR5xtSHYA-10" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Soluciones:&lt;/b&gt;&lt;br&gt;&lt;ol style=&quot;line-height: 1.2;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Combinar todos los atributos individuales en uno.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pasar los atributos del atributo compuesto a la entidad o relación.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Crear una entidad con los atributos individuales&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=-22;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
+        <mxCell id="MGBd4UWyQUKtR5xtSHYA-10" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Soluciones:&lt;/b&gt;&lt;br&gt;&lt;ol style=&quot;line-height: 1.2;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Combinar todos los atributos individuales en uno.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pasar los atributos del atributo compuesto a la entidad o relación.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Crear una entidad con los atributos individuales&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=-22;" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
           <mxGeometry x="540" y="410" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_-OPTebSoDpuE9zwplWB-3" value="Atributos compuestos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="3ZMjvVlKsP4-TXyuE5Z5-1" vertex="1">
@@ -539,7 +539,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jSs8BRx_d-3OebWh5dnl" name="Modelo Físico">
-    <mxGraphModel dx="1629" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -640,7 +640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZQCYuy2zkkT1Xxjkr_MO" name="Normalización y Dependencias Funcionales">
-    <mxGraphModel dx="2850" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1629" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -693,7 +693,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CMCfPWTpFXuqtIZ7hjPs-8" value="DF de BOYCE-CODD" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="690" y="330" width="180" height="37.5" as="geometry" />
+          <mxGeometry x="700" y="330" width="180" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="CMCfPWTpFXuqtIZ7hjPs-10" value="Perdida de integridad de datos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1880" y="280" width="110" height="40" as="geometry" />
@@ -731,10 +731,10 @@
             <mxPoint x="135" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NCkATOIP2m3-h5seGxO0-7" value="En un DF X=&amp;gt;Y, al atribuyo X se lo denomina &lt;b&gt;determinante &lt;/b&gt;y al atribuyo Y, &lt;b&gt;consecuente&lt;/b&gt;." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+        <mxCell id="NCkATOIP2m3-h5seGxO0-7" value="En un DF X=&amp;gt;Y, al atribuyo X se lo denomina &lt;b&gt;determinante &lt;/b&gt;y al atributo Y, &lt;b&gt;consecuente&lt;/b&gt;." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="600" y="160" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AmSPOQJo4OeftMr3BOps-1" value="Si se define DF X=&amp;gt; Y, siendo que no es posible encontrar otra dependencia Z=&amp;gt; Y donde Z sea un subconjunto de X se tiene una&amp;nbsp;&lt;b&gt;DF completa.&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+        <mxCell id="AmSPOQJo4OeftMr3BOps-1" value="Si se define DF X=&amp;gt; Y, siendo que no es posible encontrar otra dependencia Z=&amp;gt; Y donde Z sea un subconjunto de X, se tiene una&amp;nbsp;&lt;b&gt;DF completa.&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="280" y="160" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m_9l0PGoa9yWg8N2XHme-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" parent="1" source="AmSPOQJo4OeftMr3BOps-2" target="AmSPOQJo4OeftMr3BOps-4" edge="1">
@@ -749,20 +749,20 @@
         <mxCell id="AmSPOQJo4OeftMr3BOps-3" value="Una DF-&amp;gt;Y es transitiva cuando &lt;b&gt;existe un atributo Z, tal que X-&amp;gt; Y y Y-&amp;gt; Z.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="479.38" y="377.5" width="155" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AmSPOQJo4OeftMr3BOps-4" value="PEDIDOS=(&lt;u&gt;idpedido,idproducto&lt;/u&gt;, descripcionproducto, fechapedido, cantidad)&lt;br&gt;&lt;br&gt;&lt;b&gt;Dependencias Funcionales:&lt;/b&gt;&lt;br&gt;Idpedido,idproducto-&amp;gt; descripcionproducto&lt;br&gt;Idpedido,idproducto-&amp;gt; fechapedido&lt;br&gt;Idpedido,idproducto-&amp;gt; cantidad&lt;br&gt;&lt;br&gt;Idproducto-&amp;gt;descripcionproducto&lt;br&gt;idpedido-&amp;gt; fechapedido&lt;br&gt;&lt;br&gt;&lt;b&gt;SOLUCIÓN:&lt;/b&gt;&lt;br&gt;DETALLESPEDIDOS = (&lt;u&gt;idpedido,idproducto&lt;/u&gt;,cantidad)&lt;br&gt;PEDIDOS = (&lt;u&gt;idpedido&lt;/u&gt;,fechapedido)&lt;br&gt;PRODUCTOS=(&lt;u&gt;idproducto,&lt;/u&gt;descripciónproducto)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="AmSPOQJo4OeftMr3BOps-4" value="&lt;b&gt;PEDIDOS=(&lt;u&gt;idpedido,idproducto&lt;/u&gt;, descripcionproducto, fechapedido, cantidad)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Dependencias Funcionales:&lt;/b&gt;&lt;br&gt;idpedido,idproducto-&amp;gt; descripcionproducto&lt;br&gt;idpedido,idproducto-&amp;gt; fechapedido&lt;br&gt;idpedido,idproducto-&amp;gt; cantidad&lt;br&gt;&lt;br&gt;idproducto-&amp;gt;descripcionproducto&lt;br&gt;idpedido-&amp;gt; fechapedido&lt;br&gt;&lt;br&gt;&lt;b&gt;SOLUCIÓN:&lt;/b&gt;&lt;br&gt;DETALLESPEDIDOS = (&lt;u&gt;idpedido,idproducto&lt;/u&gt;,cantidad)&lt;br&gt;PEDIDOS = (&lt;u&gt;idpedido&lt;/u&gt;,fechapedido)&lt;br&gt;PRODUCTOS=(&lt;u&gt;idproducto,&lt;/u&gt;descripciónproducto)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="110" y="475" width="300" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="AmSPOQJo4OeftMr3BOps-5" value="ALUMNO =(&lt;u&gt;idalumno&lt;/u&gt;, nombre, direccion, idcarrera,nombre_carrera)&lt;br&gt;Idalumno-&amp;gt;nombre&lt;br&gt;Idalumno-&amp;gt;direccion&lt;br&gt;Idalumno-&amp;gt;idcarrera&lt;br&gt;idcarrera-&amp;gt;nombre_carrera&lt;br&gt;Idalumno-&amp;gt;nombre_carrera&lt;br&gt;&lt;br&gt;&lt;b&gt;SOLUCIÓN:&lt;br&gt;&lt;/b&gt;Resuelve igual que DF parciales, quitando los atributos que generan la DF transitiva (idcarrera-&amp;gt; nombre_carrera) y colocando en una nueva tabla" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="436.88" y="475" width="240" height="210" as="geometry" />
+        <mxCell id="AmSPOQJo4OeftMr3BOps-5" value="&lt;b&gt;ALUMNO =(&lt;u&gt;idalumno&lt;/u&gt;, nombre, direccion, idcarrera, nombre_carrera)&lt;/b&gt;&lt;br&gt;&lt;br&gt;idalumno-&amp;gt;nombre&lt;br&gt;idalumno-&amp;gt;direccion&lt;br&gt;idalumno-&amp;gt;idcarrera&lt;br&gt;idcarrera-&amp;gt;nombre_carrera&lt;br&gt;idalumno-&amp;gt;nombre_carrera&lt;br&gt;&lt;br&gt;&lt;b&gt;SOLUCIÓN:&lt;/b&gt;&lt;br&gt;ALUMNO=(idalumno, nombre, direccion, idcarrera)&lt;br&gt;CARRERA=(idcarrera,nombre_carrera)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="420" y="475" width="270" height="210" as="geometry" />
         </mxCell>
         <mxCell id="m_9l0PGoa9yWg8N2XHme-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="h3t6Q5xrl8zSvE3mbfr0-1" target="h3t6Q5xrl8zSvE3mbfr0-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h3t6Q5xrl8zSvE3mbfr0-1" value="Una DF X-&amp;gt; Y es DFBC cuando &lt;b&gt;X no es una CP o CC, e Y es una CP o CC, o parte de ella.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="690" y="367.5" width="180" height="80" as="geometry" />
+          <mxGeometry x="700" y="367.5" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h3t6Q5xrl8zSvE3mbfr0-2" value="DICTA= (nombre_alumno, nombre_materia, nombre_docente)&lt;br&gt;&lt;br&gt;Nombre_alumno, nombre_materia -&amp;gt; nombre_docente&lt;br&gt;Nombre_alumno, nombre_docente -&amp;gt; nombre_materia&lt;br&gt;&lt;br&gt;Nombre_docente-&amp;gt; nombre_materia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="690" y="474.5" width="360" height="95.5" as="geometry" />
+        <mxCell id="h3t6Q5xrl8zSvE3mbfr0-2" value="&lt;b&gt;DICTA= (nombre_alumno, nombre_materia, nombre_docente)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Nombre_alumno, nombre_materia -&amp;gt; nombre_docente&lt;br&gt;Nombre_alumno, nombre_docente -&amp;gt; nombre_materia&lt;br&gt;&lt;br&gt;Nombre_docente-&amp;gt; nombre_materia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="700" y="475" width="360" height="95.5" as="geometry" />
         </mxCell>
         <mxCell id="JiB69gV6pGPcc0OecRqN-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="h3t6Q5xrl8zSvE3mbfr0-4" target="h3t6Q5xrl8zSvE3mbfr0-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -775,9 +775,6 @@
         </mxCell>
         <mxCell id="h3t6Q5xrl8zSvE3mbfr0-5" value="Un modelo está en &lt;b&gt;2FN &lt;/b&gt;si está en 1FN y no tiene DF parciales en ninguna de sus tablas." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1520" y="260" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h3t6Q5xrl8zSvE3mbfr0-9" value="Soluciona quitando los atributos que generan la DF, y se los situa en una nueva tabla." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="110" y="740" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JiB69gV6pGPcc0OecRqN-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="h3t6Q5xrl8zSvE3mbfr0-10" target="h3t6Q5xrl8zSvE3mbfr0-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
