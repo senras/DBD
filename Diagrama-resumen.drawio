@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T02:38:12.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KpZTtOH73ltaqRJurb62" version="20.2.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-09T04:38:39.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PzgLTYtzSm0J4ASPiG17" version="20.2.3" type="github" pages="7">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS [Checked]">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -640,7 +640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZQCYuy2zkkT1Xxjkr_MO" name="Normalización y Dependencias Funcionales">
-    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2280" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -753,7 +753,7 @@
           <mxGeometry x="110" y="475" width="300" height="240" as="geometry" />
         </mxCell>
         <mxCell id="AmSPOQJo4OeftMr3BOps-5" value="&lt;b&gt;ALUMNO =(&lt;u&gt;idalumno&lt;/u&gt;, nombre, direccion, idcarrera, nombre_carrera)&lt;/b&gt;&lt;br&gt;&lt;br&gt;idalumno-&amp;gt;nombre&lt;br&gt;idalumno-&amp;gt;direccion&lt;br&gt;idalumno-&amp;gt;idcarrera&lt;br&gt;idcarrera-&amp;gt;nombre_carrera&lt;br&gt;idalumno-&amp;gt;nombre_carrera&lt;br&gt;&lt;br&gt;&lt;b&gt;SOLUCIÓN:&lt;/b&gt;&lt;br&gt;ALUMNO=(idalumno, nombre, direccion, idcarrera)&lt;br&gt;CARRERA=(idcarrera,nombre_carrera)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="420" y="475" width="270" height="210" as="geometry" />
+          <mxGeometry x="420" y="475" width="280" height="210" as="geometry" />
         </mxCell>
         <mxCell id="m_9l0PGoa9yWg8N2XHme-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="h3t6Q5xrl8zSvE3mbfr0-1" target="h3t6Q5xrl8zSvE3mbfr0-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -762,7 +762,7 @@
           <mxGeometry x="700" y="367.5" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h3t6Q5xrl8zSvE3mbfr0-2" value="&lt;b&gt;DICTA= (nombre_alumno, nombre_materia, nombre_docente)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Nombre_alumno, nombre_materia -&amp;gt; nombre_docente&lt;br&gt;Nombre_alumno, nombre_docente -&amp;gt; nombre_materia&lt;br&gt;&lt;br&gt;Nombre_docente-&amp;gt; nombre_materia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="700" y="475" width="360" height="95.5" as="geometry" />
+          <mxGeometry x="710" y="475" width="360" height="95.5" as="geometry" />
         </mxCell>
         <mxCell id="JiB69gV6pGPcc0OecRqN-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="h3t6Q5xrl8zSvE3mbfr0-4" target="h3t6Q5xrl8zSvE3mbfr0-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
