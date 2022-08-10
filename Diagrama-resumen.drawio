@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T00:45:34.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="A1pATu5h4Vu5pBjrmrbr" version="20.2.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-10T02:48:43.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CtZs5Lx0X6EHgoPTvIl6" version="20.2.3" type="github" pages="7">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS [Checked]">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -864,7 +864,7 @@
           <mxGeometry x="100" y="150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6rrlLHB6EjcW-QTn6jcd-4" value="Cálculo de Dominios" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="195" width="60" height="30" as="geometry" />
+          <mxGeometry x="100" y="195" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-g8T5bjWuWS5HTV-3xM5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" parent="1" source="-g8T5bjWuWS5HTV-3xM5-1" target="-g8T5bjWuWS5HTV-3xM5-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -873,7 +873,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-g8T5bjWuWS5HTV-3xM5-1" value="2 TIPOS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="245" y="225" width="70" height="30" as="geometry" />
+          <mxGeometry x="250" y="225" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-g8T5bjWuWS5HTV-3xM5-2" value="&lt;b&gt;No procedurales:&amp;nbsp;&lt;/b&gt;&lt;br&gt;Se indica solo los datos que se obtienen" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="300" y="285" width="130" height="60" as="geometry" />
