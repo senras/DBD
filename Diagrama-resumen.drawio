@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T04:38:39.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PzgLTYtzSm0J4ASPiG17" version="20.2.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-10T00:45:34.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="A1pATu5h4Vu5pBjrmrbr" version="20.2.3" type="github" pages="7">
   <diagram id="kyv-Pfv23gA9csW_IkZh" name="DB, Datos, DBMS [Checked]">
     <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -640,7 +640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZQCYuy2zkkT1Xxjkr_MO" name="Normalización y Dependencias Funcionales">
-    <mxGraphModel dx="2280" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2533" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -788,9 +788,6 @@
         <mxCell id="h3t6Q5xrl8zSvE3mbfr0-11" value="Un modelo está en &lt;b&gt;FN Boyce-Codd&lt;/b&gt; si está en 3FN y no tieneDF de BC." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1520" y="420" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m_9l0PGoa9yWg8N2XHme-3" value="Una DM no es necesariamente una situación anómala para una BD." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="910" y="339.38" width="235" height="42.5" as="geometry" />
-        </mxCell>
         <mxCell id="JiB69gV6pGPcc0OecRqN-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="m_9l0PGoa9yWg8N2XHme-5" target="m_9l0PGoa9yWg8N2XHme-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -822,18 +819,21 @@
           <mxGeometry y="41.879999999999995" width="235" height="100" as="geometry" />
         </mxCell>
         <mxCell id="m_9l0PGoa9yWg8N2XHme-4" value="El problema de la multideterminación de datos comienza cuando en una tabla cualquier se tiene 3 atributos, X, Y, Z y se analizan las siguientes DM:&lt;br&gt;&lt;br&gt;(X,Y)-&amp;gt;&amp;gt; Z&lt;br&gt;(X,Z) -&amp;gt;&amp;gt; Y&lt;br&gt;Pero en realidad, tanto Y como Z solamente dependen de X en cada una de las DF." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="Ka4ySsyJEMqKLfp64e6g-2" vertex="1">
-          <mxGeometry y="141.88" width="235" height="165" as="geometry" />
+          <mxGeometry y="184.38" width="235" height="165" as="geometry" />
         </mxCell>
         <mxCell id="m_9l0PGoa9yWg8N2XHme-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="Ka4ySsyJEMqKLfp64e6g-2" target="m_9l0PGoa9yWg8N2XHme-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="117.5" y="143.76" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m_9l0PGoa9yWg8N2XHme-3" value="Una DM no es necesariamente una situación anómala para una BD." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="Ka4ySsyJEMqKLfp64e6g-2" vertex="1">
+          <mxGeometry y="141.88" width="235" height="42.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wIwPCtWikKfOdYS3MFQI" name="AR">
-    <mxGraphModel dx="1140" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1629" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
